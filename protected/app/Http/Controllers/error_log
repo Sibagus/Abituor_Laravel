@@ -1,0 +1,4 @@
+[17-Jul-2024 07:56:22 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/sistemba/public_html/abitour/app/Http/Controllers/ApiController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sistemba/public_html/abitour/app/Http/Controllers/ApiController.php on line 8
