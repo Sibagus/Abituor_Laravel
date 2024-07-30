@@ -1,0 +1,194 @@
+string(19) "2024-07-26 09:11:31"
+string(9) "REQUEST: "
+
+string(19) "2024-07-26 09:11:31"
+string(429) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI sistemba gus@gmail.com","nomorPembayaran":"707519","tanggalTransaksi":"20240726021129","idTransaksi":"7326570726021129000451","checksum":"14837fffd5b1d4b4f228f37c6e34b49d0ea9ebba","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"51ec75b11bc7d90a96a270a2b58348ef6114fdffe6fe287167bb1a794cb13ccb"}"
+
+string(19) "2024-07-26 09:11:31"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI sistemba gus@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "707519"
+  ["tanggalTransaksi"]=>
+  string(14) "20240726021129"
+  ["idTransaksi"]=>
+  string(22) "7326570726021129000451"
+  ["checksum"]=>
+  string(40) "14837fffd5b1d4b4f228f37c6e34b49d0ea9ebba"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "51ec75b11bc7d90a96a270a2b58348ef6114fdffe6fe287167bb1a794cb13ccb"
+}
+
+string(19) "2024-07-26 09:11:31"
+array(13) {
+  ["id_invoice"]=>
+  string(3) "132"
+  ["tanggal_invoice"]=>
+  string(10) "2024-07-26"
+  ["nomor_siswa"]=>
+  string(6) "707519"
+  ["nik"]=>
+  string(18) "324234234234234214"
+  ["nama"]=>
+  string(4) "2321"
+  ["nominal_tagihan"]=>
+  int(5000)
+  ["informasi"]=>
+  string(4) "5654"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+  ["updated_at"]=>
+  NULL
+  ["created_at"]=>
+  string(19) "2024-07-26 02:10:36"
+}
+
+string(19) "2024-07-26 09:11:31"
+array(13) {
+  ["id_invoice"]=>
+  string(3) "132"
+  ["tanggal_invoice"]=>
+  string(10) "2024-07-26"
+  ["nomor_siswa"]=>
+  string(6) "707519"
+  ["nik"]=>
+  string(18) "324234234234234214"
+  ["nama"]=>
+  string(4) "2321"
+  ["nominal_tagihan"]=>
+  int(5000)
+  ["informasi"]=>
+  string(4) "5654"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+  ["updated_at"]=>
+  NULL
+  ["created_at"]=>
+  string(19) "2024-07-26 02:10:36"
+}
+
+string(19) "2024-07-26 09:11:31"
+string(321) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"707519","idPelanggan":"707519","nama":"2321","totalNominal":5000,"informasi":[{"label_key":"Info1","label_value":"5654"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":5000}],"idTagihan":"132"}"
+
+string(19) "2024-07-26 09:13:00"
+string(9) "REQUEST: "
+
+string(19) "2024-07-26 09:13:00"
+string(429) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI sistemba gus@gmail.com","nomorPembayaran":"707519","tanggalTransaksi":"20240726021259","idTransaksi":"8375420726021259000451","checksum":"0c01afbe6a97c5295ea8642980d1cb5e00d6dd6b","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"a9f7faacfb8b4ea198f6d76def7116ccf0d13dba36bc6339c39ee3ab49127bd0"}"
+
+string(19) "2024-07-26 09:13:00"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI sistemba gus@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "707519"
+  ["tanggalTransaksi"]=>
+  string(14) "20240726021259"
+  ["idTransaksi"]=>
+  string(22) "8375420726021259000451"
+  ["checksum"]=>
+  string(40) "0c01afbe6a97c5295ea8642980d1cb5e00d6dd6b"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "a9f7faacfb8b4ea198f6d76def7116ccf0d13dba36bc6339c39ee3ab49127bd0"
+}
+
+string(19) "2024-07-26 09:13:00"
+array(13) {
+  ["id_invoice"]=>
+  string(3) "132"
+  ["tanggal_invoice"]=>
+  string(10) "2024-07-26"
+  ["nomor_siswa"]=>
+  string(6) "707519"
+  ["nik"]=>
+  string(18) "324234234234234214"
+  ["nama"]=>
+  string(4) "2321"
+  ["nominal_tagihan"]=>
+  int(150000)
+  ["informasi"]=>
+  string(4) "5654"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+  ["updated_at"]=>
+  string(19) "2024-07-26 02:12:49"
+  ["created_at"]=>
+  string(19) "2024-07-26 02:10:36"
+}
+
+string(19) "2024-07-26 09:13:00"
+array(13) {
+  ["id_invoice"]=>
+  string(3) "132"
+  ["tanggal_invoice"]=>
+  string(10) "2024-07-26"
+  ["nomor_siswa"]=>
+  string(6) "707519"
+  ["nik"]=>
+  string(18) "324234234234234214"
+  ["nama"]=>
+  string(4) "2321"
+  ["nominal_tagihan"]=>
+  int(150000)
+  ["informasi"]=>
+  string(4) "5654"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+  ["updated_at"]=>
+  string(19) "2024-07-26 02:12:49"
+  ["created_at"]=>
+  string(19) "2024-07-26 02:10:36"
+}
+
+string(19) "2024-07-26 09:13:00"
+string(325) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"707519","idPelanggan":"707519","nama":"2321","totalNominal":150000,"informasi":[{"label_key":"Info1","label_value":"5654"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":150000}],"idTagihan":"132"}"
+

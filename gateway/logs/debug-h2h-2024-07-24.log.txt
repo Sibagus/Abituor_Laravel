@@ -1,0 +1,97 @@
+string(19) "2024-07-24 19:16:44"
+string(9) "REQUEST: "
+
+string(19) "2024-07-24 19:16:44"
+string(429) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"1230987","tanggalTransaksi":"20240724121642","idTransaksi":"3540600724121642000451","checksum":"4a5db70aab5dc05b49913dea7e1592446542721d","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"de2dfb9b85da2de10bd4fc18694c95e6d52b55228f475ff1ef769a3dbee48c06"}"
+
+string(19) "2024-07-24 19:16:44"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(7) "1230987"
+  ["tanggalTransaksi"]=>
+  string(14) "20240724121642"
+  ["idTransaksi"]=>
+  string(22) "3540600724121642000451"
+  ["checksum"]=>
+  string(40) "4a5db70aab5dc05b49913dea7e1592446542721d"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "de2dfb9b85da2de10bd4fc18694c95e6d52b55228f475ff1ef769a3dbee48c06"
+}
+
+string(19) "2024-07-24 19:16:44"
+array(13) {
+  ["id_invoice"]=>
+  string(3) "129"
+  ["tanggal_invoice"]=>
+  string(10) "2024-07-18"
+  ["nomor_siswa"]=>
+  string(7) "1230987"
+  ["nik"]=>
+  string(16) "3515100000330003"
+  ["nama"]=>
+  string(10) "M Bayu Put"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(25) "Pembaruan data pembayaran"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+  ["updated_at"]=>
+  string(19) "2024-07-18 04:27:56"
+  ["created_at"]=>
+  string(19) "2024-07-18 04:27:56"
+}
+
+string(19) "2024-07-24 19:16:44"
+array(13) {
+  ["id_invoice"]=>
+  string(3) "129"
+  ["tanggal_invoice"]=>
+  string(10) "2024-07-18"
+  ["nomor_siswa"]=>
+  string(7) "1230987"
+  ["nik"]=>
+  string(16) "3515100000330003"
+  ["nama"]=>
+  string(10) "M Bayu Put"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(25) "Pembaruan data pembayaran"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+  ["updated_at"]=>
+  string(19) "2024-07-18 04:27:56"
+  ["created_at"]=>
+  string(19) "2024-07-18 04:27:56"
+}
+
+string(19) "2024-07-24 19:16:44"
+string(352) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"1230987","idPelanggan":"1230987","nama":"M Bayu Put","totalNominal":10000,"informasi":[{"label_key":"Info1","label_value":"Pembaruan data pembayaran"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":10000}],"idTagihan":"129"}"
+

@@ -1,0 +1,521 @@
+string(19) "2024-07-15 16:30:25"
+string(9) "REQUEST: "
+
+string(19) "2024-07-15 16:30:25"
+string(0) ""
+
+string(19) "2024-07-15 16:30:25"
+NULL
+
+string(19) "2024-07-15 16:30:25"
+string(69) "RESPONSE: {"rc":"ERR-PARSING-MESSAGE","msg":"Invalid Message Format"}"
+
+string(19) "2024-07-15 16:31:06"
+string(9) "REQUEST: "
+
+string(19) "2024-07-15 16:31:06"
+string(0) ""
+
+string(19) "2024-07-15 16:31:06"
+NULL
+
+string(19) "2024-07-15 16:31:06"
+string(69) "RESPONSE: {"rc":"ERR-PARSING-MESSAGE","msg":"Invalid Message Format"}"
+
+string(19) "2024-07-15 16:31:23"
+string(9) "REQUEST: "
+
+string(19) "2024-07-15 16:31:23"
+string(0) ""
+
+string(19) "2024-07-15 16:31:23"
+NULL
+
+string(19) "2024-07-15 16:31:23"
+string(105) "RESPONSE: {"rc":"ERR-REVERSAL-DENIED","msg":"Reversal ditolak. Pembayaran sudah update ke DB di ABITOUR"}"
+
+string(19) "2024-07-15 16:36:16"
+string(9) "REQUEST: "
+
+string(19) "2024-07-15 16:36:16"
+string(429) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI sistemba gus@gmail.com","nomorPembayaran":"123456","tanggalTransaksi":"20240715163615","idTransaksi":"3938010715163615000451","checksum":"4269fb3d3fa1729d2bce340890152fd2b2d35f2f","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"e9cc4472268c364535376e295e5aa94f821c75abfebf19b8ea14c0186b87df1b"}"
+
+string(19) "2024-07-15 16:36:16"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI sistemba gus@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "123456"
+  ["tanggalTransaksi"]=>
+  string(14) "20240715163615"
+  ["idTransaksi"]=>
+  string(22) "3938010715163615000451"
+  ["checksum"]=>
+  string(40) "4269fb3d3fa1729d2bce340890152fd2b2d35f2f"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "e9cc4472268c364535376e295e5aa94f821c75abfebf19b8ea14c0186b87df1b"
+}
+
+string(19) "2024-07-15 16:36:16"
+array(10) {
+  ["id_invoice"]=>
+  string(7) "JUL/001"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "123456"
+  ["nama"]=>
+  string(19) "Ismah Nur Fithriyah"
+  ["nominal_tagihan"]=>
+  int(6500000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-15 16:36:16"
+array(10) {
+  ["id_invoice"]=>
+  string(7) "JUL/001"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "123456"
+  ["nama"]=>
+  string(19) "Ismah Nur Fithriyah"
+  ["nominal_tagihan"]=>
+  int(6500000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-15 16:36:16"
+string(365) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"123456","idPelanggan":"123456","nama":"Ismah Nur Fithriyah","totalNominal":6500000,"informasi":[{"label_key":"Info1","label_value":"Fakultas Ilmu Komputer"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":6500000}],"idTagihan":"JUL\/001"}"
+
+string(19) "2024-07-15 16:40:03"
+string(9) "REQUEST: "
+
+string(19) "2024-07-15 16:40:03"
+string(429) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI sistemba gus@gmail.com","nomorPembayaran":"123456","tanggalTransaksi":"20240715164002","idTransaksi":"9679110715164002000451","checksum":"f85b63cb6787dc4fe3061bdf7f3e389dffa649fd","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"ee1cd4e475d92cfc796f8a058eaa7aeb7239cdf215fd8a013b648e55240d60d5"}"
+
+string(19) "2024-07-15 16:40:03"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI sistemba gus@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "123456"
+  ["tanggalTransaksi"]=>
+  string(14) "20240715164002"
+  ["idTransaksi"]=>
+  string(22) "9679110715164002000451"
+  ["checksum"]=>
+  string(40) "f85b63cb6787dc4fe3061bdf7f3e389dffa649fd"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "ee1cd4e475d92cfc796f8a058eaa7aeb7239cdf215fd8a013b648e55240d60d5"
+}
+
+string(19) "2024-07-15 16:40:03"
+array(10) {
+  ["id_invoice"]=>
+  string(7) "JUL/001"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "123456"
+  ["nama"]=>
+  string(19) "Ismah Nur Fithriyah"
+  ["nominal_tagihan"]=>
+  int(6500000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-15 16:40:03"
+array(10) {
+  ["id_invoice"]=>
+  string(7) "JUL/001"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "123456"
+  ["nama"]=>
+  string(19) "Ismah Nur Fithriyah"
+  ["nominal_tagihan"]=>
+  int(6500000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-15 16:40:03"
+string(365) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"123456","idPelanggan":"123456","nama":"Ismah Nur Fithriyah","totalNominal":6500000,"informasi":[{"label_key":"Info1","label_value":"Fakultas Ilmu Komputer"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":6500000}],"idTagihan":"JUL\/001"}"
+
+string(19) "2024-07-15 16:40:51"
+string(9) "REQUEST: "
+
+string(19) "2024-07-15 16:40:51"
+string(579) "{"action":"payment","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI sistemba gus@gmail.com","nomorPembayaran":"123456","tanggalTransaksi":"20240715164050","idTransaksi":"2376040715164050000451","idTagihan":"JUL\/001","totalNominal":"6500000","nomorJurnalPembukuan":"2376040715164050000451","checksum":"4d3a5efc7709a4d3de82df8dbca7474d11be976e","rekeningPembayar":"9999999999999999","checksum256":"526063a0ad144f64a29ee9737d9c5504af075b1176e54b87d2db544f43fc1c2f","totalFee":0,"penanggungFee":"Nasabah","totalNominalPembayaranDanFee":6500000}"
+
+string(19) "2024-07-15 16:40:51"
+array(17) {
+  ["action"]=>
+  string(7) "payment"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI sistemba gus@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "123456"
+  ["tanggalTransaksi"]=>
+  string(14) "20240715164050"
+  ["idTransaksi"]=>
+  string(22) "2376040715164050000451"
+  ["idTagihan"]=>
+  string(7) "JUL/001"
+  ["totalNominal"]=>
+  string(7) "6500000"
+  ["nomorJurnalPembukuan"]=>
+  string(22) "2376040715164050000451"
+  ["checksum"]=>
+  string(40) "4d3a5efc7709a4d3de82df8dbca7474d11be976e"
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "526063a0ad144f64a29ee9737d9c5504af075b1176e54b87d2db544f43fc1c2f"
+  ["totalFee"]=>
+  int(0)
+  ["penanggungFee"]=>
+  string(7) "Nasabah"
+  ["totalNominalPembayaranDanFee"]=>
+  int(6500000)
+}
+
+string(19) "2024-07-15 16:40:51"
+array(10) {
+  ["id_invoice"]=>
+  string(7) "JUL/001"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "123456"
+  ["nama"]=>
+  string(19) "Ismah Nur Fithriyah"
+  ["nominal_tagihan"]=>
+  int(6500000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-15 16:40:51"
+array(10) {
+  ["id_invoice"]=>
+  string(7) "JUL/001"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "123456"
+  ["nama"]=>
+  string(19) "Ismah Nur Fithriyah"
+  ["nominal_tagihan"]=>
+  int(6500000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-15 16:40:51"
+string(13) "START PAYMENT"
+
+string(19) "2024-07-15 16:40:51"
+string(3) "XXX"
+
+string(19) "2024-07-15 16:40:51"
+string(3) "YYY"
+
+string(19) "2024-07-15 16:40:51"
+string(11) "END PAYMENT"
+
+string(19) "2024-07-15 16:40:51"
+array(9) {
+  ["rc"]=>
+  string(2) "OK"
+  ["msg"]=>
+  string(16) "Payment Succeded"
+  ["nomorPembayaran"]=>
+  string(6) "123456"
+  ["idPelanggan"]=>
+  string(6) "123456"
+  ["nama"]=>
+  string(19) "Ismah Nur Fithriyah"
+  ["totalNominal"]=>
+  int(6500000)
+  ["informasi"]=>
+  array(2) {
+    [0]=>
+    array(2) {
+      ["label_key"]=>
+      string(5) "Info1"
+      ["label_value"]=>
+      string(22) "Fakultas Ilmu Komputer"
+    }
+    [1]=>
+    array(2) {
+      ["label_key"]=>
+      string(5) "Info2"
+      ["label_value"]=>
+      string(0) ""
+    }
+  }
+  ["rincian"]=>
+  array(1) {
+    [0]=>
+    array(3) {
+      ["kode_rincian"]=>
+      string(7) "TAGIHAN"
+      ["deskripsi"]=>
+      string(7) "TAGIHAN"
+      ["nominal"]=>
+      int(6500000)
+    }
+  }
+  ["idTagihan"]=>
+  string(7) "JUL/001"
+}
+
+string(19) "2024-07-15 16:40:51"
+string(364) "RESPONSE: {"rc":"OK","msg":"Payment Succeded","nomorPembayaran":"123456","idPelanggan":"123456","nama":"Ismah Nur Fithriyah","totalNominal":6500000,"informasi":[{"label_key":"Info1","label_value":"Fakultas Ilmu Komputer"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":6500000}],"idTagihan":"JUL\/001"}"
+
+string(19) "2024-07-15 16:49:13"
+string(9) "REQUEST: "
+
+string(19) "2024-07-15 16:49:13"
+string(429) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI sistemba gus@gmail.com","nomorPembayaran":"876876","tanggalTransaksi":"20240715164912","idTransaksi":"2951630715164912000451","checksum":"df2df46702ef4b1595867abf639c64ba18de4d7a","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"0223a1ba45a887598a842d913db757b58f7e5bdc5fbcb9e1ca518d321060ca1b"}"
+
+string(19) "2024-07-15 16:49:13"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI sistemba gus@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "876876"
+  ["tanggalTransaksi"]=>
+  string(14) "20240715164912"
+  ["idTransaksi"]=>
+  string(22) "2951630715164912000451"
+  ["checksum"]=>
+  string(40) "df2df46702ef4b1595867abf639c64ba18de4d7a"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "0223a1ba45a887598a842d913db757b58f7e5bdc5fbcb9e1ca518d321060ca1b"
+}
+
+string(19) "2024-07-15 16:49:13"
+array(10) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(1250000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-15 16:49:13"
+array(10) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(1250000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-15 16:49:13"
+string(362) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"876876","idPelanggan":"876876","nama":"Ronny Afriansyah","totalNominal":1250000,"informasi":[{"label_key":"Info1","label_value":"Fakultas Ilmu Komputer"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":1250000}],"idTagihan":"JUL\/002"}"
+
+string(19) "2024-07-15 16:56:52"
+string(9) "REQUEST: "
+
+string(19) "2024-07-15 16:56:52"
+string(0) ""
+
+string(19) "2024-07-15 16:56:52"
+NULL
+
+string(19) "2024-07-15 16:56:52"
+string(69) "RESPONSE: {"rc":"ERR-PARSING-MESSAGE","msg":"Invalid Message Format"}"
+
+string(19) "2024-07-15 17:00:25"
+string(9) "REQUEST: "
+
+string(19) "2024-07-15 17:00:25"
+string(429) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI sistemba gus@gmail.com","nomorPembayaran":"123456","tanggalTransaksi":"20240715170024","idTransaksi":"2621580715170024000451","checksum":"073c0426e29a5b28618c9fffed1d25e9aced5d8f","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"7ec62d0d9e687dc13ce48546f26d57f39bfafa6218265b1baf973dce1faeee4f"}"
+
+string(19) "2024-07-15 17:00:25"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI sistemba gus@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "123456"
+  ["tanggalTransaksi"]=>
+  string(14) "20240715170024"
+  ["idTransaksi"]=>
+  string(22) "2621580715170024000451"
+  ["checksum"]=>
+  string(40) "073c0426e29a5b28618c9fffed1d25e9aced5d8f"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "7ec62d0d9e687dc13ce48546f26d57f39bfafa6218265b1baf973dce1faeee4f"
+}
+
+string(19) "2024-07-15 17:00:25"
+array(10) {
+  ["id_invoice"]=>
+  string(7) "JUL/001"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "123456"
+  ["nama"]=>
+  string(19) "Ismah Nur Fithriyah"
+  ["nominal_tagihan"]=>
+  int(6500000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  string(22) "2376040715164050000451"
+  ["waktu_transaksi"]=>
+  string(19) "2024-07-15 16:40:51"
+  ["channel_pembayaran"]=>
+  string(8) "FLAGGING"
+  ["status_pembayaran"]=>
+  string(6) "SUKSES"
+}
+
+string(19) "2024-07-15 17:00:25"
+NULL
+
+string(19) "2024-07-15 17:00:25"
+string(58) "RESPONSE: {"rc":"ERR-ALREADY-PAID","msg":"Sudah Terbayar"}"
+

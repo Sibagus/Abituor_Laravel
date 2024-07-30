@@ -1,0 +1,2580 @@
+string(19) "2024-07-17 13:53:48"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 13:53:48"
+string(433) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI sistemba gus@gmail.com","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717065343","idTransaksi":"9761360717065343000451","checksum":"b6148bd2ce68a4d56522796900b73213821e7f8a","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"8e8b1404f39f980d89b1c63671eaa76059dde766ee12b0b37d1e9532e1d92f51"}"
+
+string(19) "2024-07-17 13:53:48"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI sistemba gus@gmail.com"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717065343"
+  ["idTransaksi"]=>
+  string(22) "9761360717065343000451"
+  ["checksum"]=>
+  string(40) "b6148bd2ce68a4d56522796900b73213821e7f8a"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "8e8b1404f39f980d89b1c63671eaa76059dde766ee12b0b37d1e9532e1d92f51"
+}
+
+string(19) "2024-07-17 13:53:48"
+array(10) {
+  ["id"]=>
+  int(3)
+  ["tanggal_invoice"]=>
+  string(19) "2024-07-18 03:29:08"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nama"]=>
+  string(8) "Bayu Ang"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(4) "aaaa"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 13:53:48"
+array(10) {
+  ["id"]=>
+  int(3)
+  ["tanggal_invoice"]=>
+  string(19) "2024-07-18 03:29:08"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nama"]=>
+  string(8) "Bayu Ang"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(4) "aaaa"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 13:53:48"
+string(334) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"1912191212","idPelanggan":"1912191212","nama":"Bayu Ang","totalNominal":10000,"informasi":[{"label_key":"Info1","label_value":"aaaa"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":10000}],"idTagihan":null}"
+
+string(19) "2024-07-17 13:53:55"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 13:53:55"
+string(618) "{"action":"payment","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI sistemba gus@gmail.com","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717065351","idTransaksi":"9101170717065351000451","idTagihan":"TMP-ID-fb29e535ed2692567055b96f5390b1aa6c7cb1f2","totalNominal":"10000","nomorJurnalPembukuan":"9101170717065351000451","checksum":"6b9bea52ee9709e299a32bb9dd0024a83fef05de","rekeningPembayar":"9999999999999999","checksum256":"fc5a50ff359ae5a52fb23e06d94d627ad033d68d626970c3b805d5daa862e48d","totalFee":0,"penanggungFee":"Nasabah","totalNominalPembayaranDanFee":10000}"
+
+string(19) "2024-07-17 13:53:55"
+array(17) {
+  ["action"]=>
+  string(7) "payment"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI sistemba gus@gmail.com"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717065351"
+  ["idTransaksi"]=>
+  string(22) "9101170717065351000451"
+  ["idTagihan"]=>
+  string(47) "TMP-ID-fb29e535ed2692567055b96f5390b1aa6c7cb1f2"
+  ["totalNominal"]=>
+  string(5) "10000"
+  ["nomorJurnalPembukuan"]=>
+  string(22) "9101170717065351000451"
+  ["checksum"]=>
+  string(40) "6b9bea52ee9709e299a32bb9dd0024a83fef05de"
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "fc5a50ff359ae5a52fb23e06d94d627ad033d68d626970c3b805d5daa862e48d"
+  ["totalFee"]=>
+  int(0)
+  ["penanggungFee"]=>
+  string(7) "Nasabah"
+  ["totalNominalPembayaranDanFee"]=>
+  int(10000)
+}
+
+string(19) "2024-07-17 13:53:55"
+array(10) {
+  ["id"]=>
+  int(3)
+  ["tanggal_invoice"]=>
+  string(19) "2024-07-18 03:29:08"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nama"]=>
+  string(8) "Bayu Ang"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(4) "aaaa"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 13:53:55"
+array(10) {
+  ["id"]=>
+  int(3)
+  ["tanggal_invoice"]=>
+  string(19) "2024-07-18 03:29:08"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nama"]=>
+  string(8) "Bayu Ang"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(4) "aaaa"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 13:53:55"
+string(13) "START PAYMENT"
+
+string(19) "2024-07-17 13:53:55"
+string(3) "XXX"
+
+string(19) "2024-07-17 13:54:06"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 13:54:06"
+string(433) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI RE-INQ sistemba gus@gm","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717135405","idTransaksi":"8723010717135405000451","checksum":"7b33d1e9f802da252d290adbf8cae446cec73f1f","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"06495f049a72e5362e694a7c45b36811260c45bd4e1f92d79cc8a95e8a740018"}"
+
+string(19) "2024-07-17 13:54:06"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI RE-INQ sistemba gus@gm"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717135405"
+  ["idTransaksi"]=>
+  string(22) "8723010717135405000451"
+  ["checksum"]=>
+  string(40) "7b33d1e9f802da252d290adbf8cae446cec73f1f"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "06495f049a72e5362e694a7c45b36811260c45bd4e1f92d79cc8a95e8a740018"
+}
+
+string(19) "2024-07-17 13:54:06"
+array(10) {
+  ["id"]=>
+  int(3)
+  ["tanggal_invoice"]=>
+  string(19) "2024-07-18 03:29:08"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nama"]=>
+  string(8) "Bayu Ang"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(4) "aaaa"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 13:54:06"
+array(10) {
+  ["id"]=>
+  int(3)
+  ["tanggal_invoice"]=>
+  string(19) "2024-07-18 03:29:08"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nama"]=>
+  string(8) "Bayu Ang"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(4) "aaaa"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 13:54:06"
+string(334) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"1912191212","idPelanggan":"1912191212","nama":"Bayu Ang","totalNominal":10000,"informasi":[{"label_key":"Info1","label_value":"aaaa"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":10000}],"idTagihan":null}"
+
+string(19) "2024-07-17 13:54:48"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 13:54:48"
+string(433) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI RE-INQ sistemba gus@gm","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717135446","idTransaksi":"9101170717135446000451","checksum":"4a1febf8aac51b4f36b801bc1076b541f7d9e163","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"1b23d2567cbe4f7853962b84cbd5b46aff7080d3b7723e59263d968ad317f68b"}"
+
+string(19) "2024-07-17 13:54:48"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI RE-INQ sistemba gus@gm"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717135446"
+  ["idTransaksi"]=>
+  string(22) "9101170717135446000451"
+  ["checksum"]=>
+  string(40) "4a1febf8aac51b4f36b801bc1076b541f7d9e163"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "1b23d2567cbe4f7853962b84cbd5b46aff7080d3b7723e59263d968ad317f68b"
+}
+
+string(19) "2024-07-17 13:54:48"
+array(10) {
+  ["id"]=>
+  int(3)
+  ["tanggal_invoice"]=>
+  string(19) "2024-07-18 03:29:08"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nama"]=>
+  string(8) "Bayu Ang"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(4) "aaaa"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 13:54:48"
+array(10) {
+  ["id"]=>
+  int(3)
+  ["tanggal_invoice"]=>
+  string(19) "2024-07-18 03:29:08"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nama"]=>
+  string(8) "Bayu Ang"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(4) "aaaa"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 13:54:48"
+string(334) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"1912191212","idPelanggan":"1912191212","nama":"Bayu Ang","totalNominal":10000,"informasi":[{"label_key":"Info1","label_value":"aaaa"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":10000}],"idTagihan":null}"
+
+string(19) "2024-07-17 13:55:14"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 13:55:14"
+string(0) ""
+
+string(19) "2024-07-17 13:55:51"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 13:55:51"
+string(432) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717065550","idTransaksi":"9458450717065550000451","checksum":"d7c6050b0902abe78c1b74d885e4d214168363eb","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"878a104d638b1505473bb1cbacacee2647828779017e1a44d3153db946d44c48"}"
+
+string(19) "2024-07-17 13:55:51"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717065550"
+  ["idTransaksi"]=>
+  string(22) "9458450717065550000451"
+  ["checksum"]=>
+  string(40) "d7c6050b0902abe78c1b74d885e4d214168363eb"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "878a104d638b1505473bb1cbacacee2647828779017e1a44d3153db946d44c48"
+}
+
+string(19) "2024-07-17 13:55:51"
+array(10) {
+  ["id"]=>
+  int(3)
+  ["tanggal_invoice"]=>
+  string(19) "2024-07-18 03:29:08"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nama"]=>
+  string(8) "Bayu Ang"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(4) "aaaa"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 13:55:51"
+array(10) {
+  ["id"]=>
+  int(3)
+  ["tanggal_invoice"]=>
+  string(19) "2024-07-18 03:29:08"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nama"]=>
+  string(8) "Bayu Ang"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(4) "aaaa"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 13:55:51"
+string(334) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"1912191212","idPelanggan":"1912191212","nama":"Bayu Ang","totalNominal":10000,"informasi":[{"label_key":"Info1","label_value":"aaaa"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":10000}],"idTagihan":null}"
+
+string(19) "2024-07-17 13:55:51"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 13:55:51"
+string(433) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI RE-INQ sistemba gus@gm","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717135548","idTransaksi":"9101170717135548000451","checksum":"16e21f0b858561f5df6eaa221bf9787478fba004","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"7e0a3d1cdc8d182c28f2d1ea971f34052bdc985c065e67edafaf52469c41dc3e"}"
+
+string(19) "2024-07-17 13:55:51"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI RE-INQ sistemba gus@gm"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717135548"
+  ["idTransaksi"]=>
+  string(22) "9101170717135548000451"
+  ["checksum"]=>
+  string(40) "16e21f0b858561f5df6eaa221bf9787478fba004"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "7e0a3d1cdc8d182c28f2d1ea971f34052bdc985c065e67edafaf52469c41dc3e"
+}
+
+string(19) "2024-07-17 13:55:51"
+array(10) {
+  ["id"]=>
+  int(3)
+  ["tanggal_invoice"]=>
+  string(19) "2024-07-18 03:29:08"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nama"]=>
+  string(8) "Bayu Ang"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(4) "aaaa"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 13:55:51"
+array(10) {
+  ["id"]=>
+  int(3)
+  ["tanggal_invoice"]=>
+  string(19) "2024-07-18 03:29:08"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nama"]=>
+  string(8) "Bayu Ang"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(4) "aaaa"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 13:55:51"
+string(334) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"1912191212","idPelanggan":"1912191212","nama":"Bayu Ang","totalNominal":10000,"informasi":[{"label_key":"Info1","label_value":"aaaa"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":10000}],"idTagihan":null}"
+
+string(19) "2024-07-17 13:56:02"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 13:56:02"
+string(620) "{"action":"payment","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717065601","idTransaksi":"5923310717065601000451","idTagihan":"TMP-ID-a18d5c85ff581d5bd09fddf0858cd11d5a4a7de5","totalNominal":"10000","nomorJurnalPembukuan":"5923310717065601000451","checksum":"64a4c405be49374fa64d48d5eb678b9394df10e3","rekeningPembayar":"9999999999999999","checksum256":"ee2a55fbbb540152c67dbcdd5a1fc2b13bb96a6dea8153011d8521d7e65970c1","totalFee":2500,"penanggungFee":"Nasabah","totalNominalPembayaranDanFee":12500}"
+
+string(19) "2024-07-17 13:56:02"
+array(17) {
+  ["action"]=>
+  string(7) "payment"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717065601"
+  ["idTransaksi"]=>
+  string(22) "5923310717065601000451"
+  ["idTagihan"]=>
+  string(47) "TMP-ID-a18d5c85ff581d5bd09fddf0858cd11d5a4a7de5"
+  ["totalNominal"]=>
+  string(5) "10000"
+  ["nomorJurnalPembukuan"]=>
+  string(22) "5923310717065601000451"
+  ["checksum"]=>
+  string(40) "64a4c405be49374fa64d48d5eb678b9394df10e3"
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "ee2a55fbbb540152c67dbcdd5a1fc2b13bb96a6dea8153011d8521d7e65970c1"
+  ["totalFee"]=>
+  int(2500)
+  ["penanggungFee"]=>
+  string(7) "Nasabah"
+  ["totalNominalPembayaranDanFee"]=>
+  int(12500)
+}
+
+string(19) "2024-07-17 13:56:02"
+array(10) {
+  ["id"]=>
+  int(3)
+  ["tanggal_invoice"]=>
+  string(19) "2024-07-18 03:29:08"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nama"]=>
+  string(8) "Bayu Ang"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(4) "aaaa"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 13:56:02"
+array(10) {
+  ["id"]=>
+  int(3)
+  ["tanggal_invoice"]=>
+  string(19) "2024-07-18 03:29:08"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nama"]=>
+  string(8) "Bayu Ang"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(4) "aaaa"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 13:56:02"
+string(13) "START PAYMENT"
+
+string(19) "2024-07-17 13:56:02"
+string(3) "XXX"
+
+string(19) "2024-07-17 13:56:23"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 13:56:23"
+string(433) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI RE-INQ abitour. id@gma","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717135622","idTransaksi":"5923310717135622000451","checksum":"24041d821acc47e455df2f7866985f3a9cafdfa1","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"cef6b82c2b5ffd9bb62ce32f3cfff61460fc3acd25dd62789ad5b7d615527fb1"}"
+
+string(19) "2024-07-17 13:56:23"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI RE-INQ abitour. id@gma"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717135622"
+  ["idTransaksi"]=>
+  string(22) "5923310717135622000451"
+  ["checksum"]=>
+  string(40) "24041d821acc47e455df2f7866985f3a9cafdfa1"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "cef6b82c2b5ffd9bb62ce32f3cfff61460fc3acd25dd62789ad5b7d615527fb1"
+}
+
+string(19) "2024-07-17 13:56:23"
+array(10) {
+  ["id"]=>
+  int(3)
+  ["tanggal_invoice"]=>
+  string(19) "2024-07-18 03:29:08"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nama"]=>
+  string(8) "Bayu Ang"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(4) "aaaa"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 13:56:23"
+array(10) {
+  ["id"]=>
+  int(3)
+  ["tanggal_invoice"]=>
+  string(19) "2024-07-18 03:29:08"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nama"]=>
+  string(8) "Bayu Ang"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(4) "aaaa"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 13:56:23"
+string(334) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"1912191212","idPelanggan":"1912191212","nama":"Bayu Ang","totalNominal":10000,"informasi":[{"label_key":"Info1","label_value":"aaaa"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":10000}],"idTagihan":null}"
+
+string(19) "2024-07-17 13:57:03"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 13:57:03"
+string(433) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI RE-INQ sistemba gus@gm","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717135701","idTransaksi":"9101170717135701000451","checksum":"703555a92b1165085d54ccaef3cccc977ed0e0c3","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"e417ec0a9c32a045b987f169846e6d6aee7c159f691d811e33ca9120bc7dccbd"}"
+
+string(19) "2024-07-17 13:57:03"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI RE-INQ sistemba gus@gm"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717135701"
+  ["idTransaksi"]=>
+  string(22) "9101170717135701000451"
+  ["checksum"]=>
+  string(40) "703555a92b1165085d54ccaef3cccc977ed0e0c3"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "e417ec0a9c32a045b987f169846e6d6aee7c159f691d811e33ca9120bc7dccbd"
+}
+
+string(19) "2024-07-17 13:57:03"
+NULL
+
+string(19) "2024-07-17 13:57:03"
+string(62) "RESPONSE: {"rc":"ERR-NOT-FOUND","msg":"Nomor Tidak Ditemukan"}"
+
+string(19) "2024-07-17 13:57:16"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 13:57:16"
+string(428) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"191213","tanggalTransaksi":"20240717065715","idTransaksi":"3815940717065715000451","checksum":"1d31e847b1600ba4ca06c9c8ce8c0891487e8b67","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"619655f47fc8347fe5f0499ed47ec15887f1817073f22518a30b94982a035c53"}"
+
+string(19) "2024-07-17 13:57:16"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "191213"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717065715"
+  ["idTransaksi"]=>
+  string(22) "3815940717065715000451"
+  ["checksum"]=>
+  string(40) "1d31e847b1600ba4ca06c9c8ce8c0891487e8b67"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "619655f47fc8347fe5f0499ed47ec15887f1817073f22518a30b94982a035c53"
+}
+
+string(19) "2024-07-17 13:57:16"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/005"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(6) "191213"
+  ["nik"]=>
+  string(6) "333333"
+  ["nama"]=>
+  string(12) "Bayu Anggara"
+  ["nominal_tagihan"]=>
+  int(5000)
+  ["informasi"]=>
+  string(6) "Infaq "
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 13:57:16"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/005"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(6) "191213"
+  ["nik"]=>
+  string(6) "333333"
+  ["nama"]=>
+  string(12) "Bayu Anggara"
+  ["nominal_tagihan"]=>
+  int(5000)
+  ["informasi"]=>
+  string(6) "Infaq "
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 13:57:16"
+string(336) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"191213","idPelanggan":"191213","nama":"Bayu Anggara","totalNominal":5000,"informasi":[{"label_key":"Info1","label_value":"Infaq "},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":5000}],"idTagihan":"JUL\/005"}"
+
+string(19) "2024-07-17 13:57:25"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 13:57:25"
+string(433) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI RE-INQ abitour. id@gma","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717135725","idTransaksi":"5923310717135725000451","checksum":"a6120cc19d0588290b10e0870b7db3acae470c0c","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"3d0716775a3350326497129b9c7903f6a30502dc762e3560f3d13bd93bbbc521"}"
+
+string(19) "2024-07-17 13:57:25"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI RE-INQ abitour. id@gma"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717135725"
+  ["idTransaksi"]=>
+  string(22) "5923310717135725000451"
+  ["checksum"]=>
+  string(40) "a6120cc19d0588290b10e0870b7db3acae470c0c"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "3d0716775a3350326497129b9c7903f6a30502dc762e3560f3d13bd93bbbc521"
+}
+
+string(19) "2024-07-17 13:57:25"
+NULL
+
+string(19) "2024-07-17 13:57:25"
+string(62) "RESPONSE: {"rc":"ERR-NOT-FOUND","msg":"Nomor Tidak Ditemukan"}"
+
+string(19) "2024-07-17 13:57:26"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 13:57:26"
+string(429) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI sistemba gus@gmail.com","nomorPembayaran":"191213","tanggalTransaksi":"20240717065726","idTransaksi":"1011800717065726000451","checksum":"2bc06fb7860d565e1067cd9660827ddd2e154a39","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"37d43d7d242bc0dd1a5a882def7dd77adca76b6000eec1cf41b77c8ca88e99d7"}"
+
+string(19) "2024-07-17 13:57:26"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI sistemba gus@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "191213"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717065726"
+  ["idTransaksi"]=>
+  string(22) "1011800717065726000451"
+  ["checksum"]=>
+  string(40) "2bc06fb7860d565e1067cd9660827ddd2e154a39"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "37d43d7d242bc0dd1a5a882def7dd77adca76b6000eec1cf41b77c8ca88e99d7"
+}
+
+string(19) "2024-07-17 13:57:26"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/005"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(6) "191213"
+  ["nik"]=>
+  string(6) "333333"
+  ["nama"]=>
+  string(12) "Bayu Anggara"
+  ["nominal_tagihan"]=>
+  int(5000)
+  ["informasi"]=>
+  string(6) "Infaq "
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 13:57:26"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/005"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(6) "191213"
+  ["nik"]=>
+  string(6) "333333"
+  ["nama"]=>
+  string(12) "Bayu Anggara"
+  ["nominal_tagihan"]=>
+  int(5000)
+  ["informasi"]=>
+  string(6) "Infaq "
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 13:57:26"
+string(336) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"191213","idPelanggan":"191213","nama":"Bayu Anggara","totalNominal":5000,"informasi":[{"label_key":"Info1","label_value":"Infaq "},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":5000}],"idTagihan":"JUL\/005"}"
+
+string(19) "2024-07-17 13:57:33"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 13:57:33"
+string(573) "{"action":"payment","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI sistemba gus@gmail.com","nomorPembayaran":"191213","tanggalTransaksi":"20240717065732","idTransaksi":"9639250717065732000451","idTagihan":"JUL\/005","totalNominal":"5000","nomorJurnalPembukuan":"9639250717065732000451","checksum":"7fcd3eac998f1d84002f9ffa0eaabb941a57a4e5","rekeningPembayar":"9999999999999999","checksum256":"ef1faeef5c5df249cc36a09f58db8aa4af790481dc200964903a7ca8fa41b0b7","totalFee":0,"penanggungFee":"Nasabah","totalNominalPembayaranDanFee":5000}"
+
+string(19) "2024-07-17 13:57:33"
+array(17) {
+  ["action"]=>
+  string(7) "payment"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI sistemba gus@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "191213"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717065732"
+  ["idTransaksi"]=>
+  string(22) "9639250717065732000451"
+  ["idTagihan"]=>
+  string(7) "JUL/005"
+  ["totalNominal"]=>
+  string(4) "5000"
+  ["nomorJurnalPembukuan"]=>
+  string(22) "9639250717065732000451"
+  ["checksum"]=>
+  string(40) "7fcd3eac998f1d84002f9ffa0eaabb941a57a4e5"
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "ef1faeef5c5df249cc36a09f58db8aa4af790481dc200964903a7ca8fa41b0b7"
+  ["totalFee"]=>
+  int(0)
+  ["penanggungFee"]=>
+  string(7) "Nasabah"
+  ["totalNominalPembayaranDanFee"]=>
+  int(5000)
+}
+
+string(19) "2024-07-17 13:57:33"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/005"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(6) "191213"
+  ["nik"]=>
+  string(6) "333333"
+  ["nama"]=>
+  string(12) "Bayu Anggara"
+  ["nominal_tagihan"]=>
+  int(5000)
+  ["informasi"]=>
+  string(6) "Infaq "
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 13:57:33"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/005"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(6) "191213"
+  ["nik"]=>
+  string(6) "333333"
+  ["nama"]=>
+  string(12) "Bayu Anggara"
+  ["nominal_tagihan"]=>
+  int(5000)
+  ["informasi"]=>
+  string(6) "Infaq "
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 13:57:33"
+string(13) "START PAYMENT"
+
+string(19) "2024-07-17 13:57:33"
+string(3) "XXX"
+
+string(19) "2024-07-17 13:57:33"
+string(3) "YYY"
+
+string(19) "2024-07-17 13:57:33"
+string(11) "END PAYMENT"
+
+string(19) "2024-07-17 13:57:33"
+array(9) {
+  ["rc"]=>
+  string(2) "OK"
+  ["msg"]=>
+  string(16) "Payment Succeded"
+  ["nomorPembayaran"]=>
+  string(6) "191213"
+  ["idPelanggan"]=>
+  string(6) "191213"
+  ["nama"]=>
+  string(12) "Bayu Anggara"
+  ["totalNominal"]=>
+  int(5000)
+  ["informasi"]=>
+  array(2) {
+    [0]=>
+    array(2) {
+      ["label_key"]=>
+      string(5) "Info1"
+      ["label_value"]=>
+      string(6) "Infaq "
+    }
+    [1]=>
+    array(2) {
+      ["label_key"]=>
+      string(5) "Info2"
+      ["label_value"]=>
+      string(0) ""
+    }
+  }
+  ["rincian"]=>
+  array(1) {
+    [0]=>
+    array(3) {
+      ["kode_rincian"]=>
+      string(7) "TAGIHAN"
+      ["deskripsi"]=>
+      string(7) "TAGIHAN"
+      ["nominal"]=>
+      int(5000)
+    }
+  }
+  ["idTagihan"]=>
+  string(7) "JUL/005"
+}
+
+string(19) "2024-07-17 13:57:33"
+string(335) "RESPONSE: {"rc":"OK","msg":"Payment Succeded","nomorPembayaran":"191213","idPelanggan":"191213","nama":"Bayu Anggara","totalNominal":5000,"informasi":[{"label_key":"Info1","label_value":"Infaq "},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":5000}],"idTagihan":"JUL\/005"}"
+
+string(19) "2024-07-17 13:57:56"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 13:57:56"
+string(433) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI RE-INQ abitour. id@gma","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717135756","idTransaksi":"5923310717135756000451","checksum":"9184f55797ba57ce636de48fcd6e5ec462336d10","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"aebf592057b791e10394a199a5558e7face6d396ce92d38a32a9b80580f14f51"}"
+
+string(19) "2024-07-17 13:57:56"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI RE-INQ abitour. id@gma"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717135756"
+  ["idTransaksi"]=>
+  string(22) "5923310717135756000451"
+  ["checksum"]=>
+  string(40) "9184f55797ba57ce636de48fcd6e5ec462336d10"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "aebf592057b791e10394a199a5558e7face6d396ce92d38a32a9b80580f14f51"
+}
+
+string(19) "2024-07-17 13:57:56"
+NULL
+
+string(19) "2024-07-17 13:57:56"
+string(62) "RESPONSE: {"rc":"ERR-NOT-FOUND","msg":"Nomor Tidak Ditemukan"}"
+
+string(19) "2024-07-17 13:58:16"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 13:58:16"
+string(433) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI RE-INQ sistemba gus@gm","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717135816","idTransaksi":"9101170717135816000451","checksum":"b54c2d3658b5210fcc4424bde2489f58497db7e3","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"b9d778ad0cac7fbe04af9769fd09fe02967bccf4c4fcb9f05b0e88c8f2843e44"}"
+
+string(19) "2024-07-17 13:58:16"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI RE-INQ sistemba gus@gm"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717135816"
+  ["idTransaksi"]=>
+  string(22) "9101170717135816000451"
+  ["checksum"]=>
+  string(40) "b54c2d3658b5210fcc4424bde2489f58497db7e3"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "b9d778ad0cac7fbe04af9769fd09fe02967bccf4c4fcb9f05b0e88c8f2843e44"
+}
+
+string(19) "2024-07-17 13:58:16"
+NULL
+
+string(19) "2024-07-17 13:58:16"
+string(62) "RESPONSE: {"rc":"ERR-NOT-FOUND","msg":"Nomor Tidak Ditemukan"}"
+
+string(19) "2024-07-17 13:58:29"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 13:58:29"
+string(433) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI RE-INQ abitour. id@gma","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717135827","idTransaksi":"5923310717135827000451","checksum":"d0dbb4b6e41e53b7d535d05fd6b8991db8140f51","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"f43183a272f47b66f068f0737cadc4d44af3f2eb91be4cbfd8117205995cfed7"}"
+
+string(19) "2024-07-17 13:58:29"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI RE-INQ abitour. id@gma"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717135827"
+  ["idTransaksi"]=>
+  string(22) "5923310717135827000451"
+  ["checksum"]=>
+  string(40) "d0dbb4b6e41e53b7d535d05fd6b8991db8140f51"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "f43183a272f47b66f068f0737cadc4d44af3f2eb91be4cbfd8117205995cfed7"
+}
+
+string(19) "2024-07-17 13:58:29"
+NULL
+
+string(19) "2024-07-17 13:58:29"
+string(62) "RESPONSE: {"rc":"ERR-NOT-FOUND","msg":"Nomor Tidak Ditemukan"}"
+
+string(19) "2024-07-17 13:59:01"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 13:59:01"
+string(433) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI RE-INQ abitour. id@gma","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717135900","idTransaksi":"5923310717135900000451","checksum":"31c8920d5244cef030c4ad8948fdd1c088526bbc","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"657d4f7046fa0383bbd1c50ab346621c93651412a422302a700b9fb62141c573"}"
+
+string(19) "2024-07-17 13:59:01"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI RE-INQ abitour. id@gma"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717135900"
+  ["idTransaksi"]=>
+  string(22) "5923310717135900000451"
+  ["checksum"]=>
+  string(40) "31c8920d5244cef030c4ad8948fdd1c088526bbc"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "657d4f7046fa0383bbd1c50ab346621c93651412a422302a700b9fb62141c573"
+}
+
+string(19) "2024-07-17 13:59:01"
+NULL
+
+string(19) "2024-07-17 13:59:01"
+string(62) "RESPONSE: {"rc":"ERR-NOT-FOUND","msg":"Nomor Tidak Ditemukan"}"
+
+string(19) "2024-07-17 13:59:33"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 13:59:33"
+string(433) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI RE-INQ abitour. id@gma","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717135931","idTransaksi":"5923310717135931000451","checksum":"39216762a899b617c5b50b09db3d596bd8b87d3e","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"174152f3e948d265200e026ceead75c28c39421dc2e66bc77cefd91649318650"}"
+
+string(19) "2024-07-17 13:59:33"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI RE-INQ abitour. id@gma"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717135931"
+  ["idTransaksi"]=>
+  string(22) "5923310717135931000451"
+  ["checksum"]=>
+  string(40) "39216762a899b617c5b50b09db3d596bd8b87d3e"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "174152f3e948d265200e026ceead75c28c39421dc2e66bc77cefd91649318650"
+}
+
+string(19) "2024-07-17 13:59:33"
+array(11) {
+  ["id_invoice"]=>
+  string(3) "344"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nik"]=>
+  string(5) "17089"
+  ["nama"]=>
+  string(9) "Bayu AAAA"
+  ["nominal_tagihan"]=>
+  int(15000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 13:59:33"
+array(11) {
+  ["id_invoice"]=>
+  string(3) "344"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nik"]=>
+  string(5) "17089"
+  ["nama"]=>
+  string(9) "Bayu AAAA"
+  ["nominal_tagihan"]=>
+  int(15000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 13:59:33"
+string(349) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"1912191212","idPelanggan":"1912191212","nama":"Bayu AAAA","totalNominal":15000,"informasi":[{"label_key":"Info1","label_value":"Tes Ting Abi tour"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":15000}],"idTagihan":"344"}"
+
+string(19) "2024-07-17 13:59:41"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 13:59:41"
+string(432) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717065940","idTransaksi":"4557470717065940000451","checksum":"6a71c92bd27c860d592e1ff60e9a66a049d5231a","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"f6bfd71a5a4c0db97fae4fa7c2f7ba30345c28455eae6ead1b932a59094f1d7b"}"
+
+string(19) "2024-07-17 13:59:41"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717065940"
+  ["idTransaksi"]=>
+  string(22) "4557470717065940000451"
+  ["checksum"]=>
+  string(40) "6a71c92bd27c860d592e1ff60e9a66a049d5231a"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "f6bfd71a5a4c0db97fae4fa7c2f7ba30345c28455eae6ead1b932a59094f1d7b"
+}
+
+string(19) "2024-07-17 13:59:41"
+array(11) {
+  ["id_invoice"]=>
+  string(3) "344"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nik"]=>
+  string(5) "17089"
+  ["nama"]=>
+  string(9) "Bayu AAAA"
+  ["nominal_tagihan"]=>
+  int(15000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 13:59:41"
+array(11) {
+  ["id_invoice"]=>
+  string(3) "344"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nik"]=>
+  string(5) "17089"
+  ["nama"]=>
+  string(9) "Bayu AAAA"
+  ["nominal_tagihan"]=>
+  int(15000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 13:59:41"
+string(349) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"1912191212","idPelanggan":"1912191212","nama":"Bayu AAAA","totalNominal":15000,"informasi":[{"label_key":"Info1","label_value":"Tes Ting Abi tour"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":15000}],"idTagihan":"344"}"
+
+string(19) "2024-07-17 13:59:46"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 13:59:46"
+string(433) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI sistemba gus@gmail.com","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717065945","idTransaksi":"6820150717065945000451","checksum":"d9ae5d2e15cb3259decaf75718d75feb5df0eafc","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"04fab072987b30ab134b51e23811aa90bf18221a3586097d7d0465e2425a83f9"}"
+
+string(19) "2024-07-17 13:59:46"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI sistemba gus@gmail.com"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717065945"
+  ["idTransaksi"]=>
+  string(22) "6820150717065945000451"
+  ["checksum"]=>
+  string(40) "d9ae5d2e15cb3259decaf75718d75feb5df0eafc"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "04fab072987b30ab134b51e23811aa90bf18221a3586097d7d0465e2425a83f9"
+}
+
+string(19) "2024-07-17 13:59:46"
+array(11) {
+  ["id_invoice"]=>
+  string(3) "344"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nik"]=>
+  string(5) "17089"
+  ["nama"]=>
+  string(9) "Bayu AAAA"
+  ["nominal_tagihan"]=>
+  int(15000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 13:59:46"
+array(11) {
+  ["id_invoice"]=>
+  string(3) "344"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nik"]=>
+  string(5) "17089"
+  ["nama"]=>
+  string(9) "Bayu AAAA"
+  ["nominal_tagihan"]=>
+  int(15000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 13:59:46"
+string(349) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"1912191212","idPelanggan":"1912191212","nama":"Bayu AAAA","totalNominal":15000,"informasi":[{"label_key":"Info1","label_value":"Tes Ting Abi tour"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":15000}],"idTagihan":"344"}"
+
+string(19) "2024-07-17 14:00:04"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 14:00:04"
+string(433) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI RE-INQ abitour. id@gma","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717140004","idTransaksi":"9028280717140004000451","checksum":"f39126d4badbc14fd4bc61f55d4e78e8c7f6b79f","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"cc592fcbe7fdb6d6a34a860d4a46a96f914f040880e00150251ea1bac33e5c3f"}"
+
+string(19) "2024-07-17 14:00:04"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI RE-INQ abitour. id@gma"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717140004"
+  ["idTransaksi"]=>
+  string(22) "9028280717140004000451"
+  ["checksum"]=>
+  string(40) "f39126d4badbc14fd4bc61f55d4e78e8c7f6b79f"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "cc592fcbe7fdb6d6a34a860d4a46a96f914f040880e00150251ea1bac33e5c3f"
+}
+
+string(19) "2024-07-17 14:00:04"
+array(11) {
+  ["id_invoice"]=>
+  string(3) "344"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nik"]=>
+  string(5) "17089"
+  ["nama"]=>
+  string(9) "Bayu AAAA"
+  ["nominal_tagihan"]=>
+  int(15000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 14:00:04"
+array(11) {
+  ["id_invoice"]=>
+  string(3) "344"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nik"]=>
+  string(5) "17089"
+  ["nama"]=>
+  string(9) "Bayu AAAA"
+  ["nominal_tagihan"]=>
+  int(15000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 14:00:04"
+string(349) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"1912191212","idPelanggan":"1912191212","nama":"Bayu AAAA","totalNominal":15000,"informasi":[{"label_key":"Info1","label_value":"Tes Ting Abi tour"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":15000}],"idTagihan":"344"}"
+
+string(19) "2024-07-17 14:00:05"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 14:00:05"
+string(433) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI RE-INQ abitour. id@gma","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717140005","idTransaksi":"5923310717140005000451","checksum":"468c88784a43942121c6864c1dc2be1c5994fac3","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"9e04bce8ef8e9e396929f96f715d1ffc601b8c211c0a164647d7c2de8046bd30"}"
+
+string(19) "2024-07-17 14:00:05"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI RE-INQ abitour. id@gma"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717140005"
+  ["idTransaksi"]=>
+  string(22) "5923310717140005000451"
+  ["checksum"]=>
+  string(40) "468c88784a43942121c6864c1dc2be1c5994fac3"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "9e04bce8ef8e9e396929f96f715d1ffc601b8c211c0a164647d7c2de8046bd30"
+}
+
+string(19) "2024-07-17 14:00:05"
+array(11) {
+  ["id_invoice"]=>
+  string(3) "344"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nik"]=>
+  string(5) "17089"
+  ["nama"]=>
+  string(9) "Bayu AAAA"
+  ["nominal_tagihan"]=>
+  int(15000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 14:00:05"
+array(11) {
+  ["id_invoice"]=>
+  string(3) "344"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nik"]=>
+  string(5) "17089"
+  ["nama"]=>
+  string(9) "Bayu AAAA"
+  ["nominal_tagihan"]=>
+  int(15000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 14:00:05"
+string(349) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"1912191212","idPelanggan":"1912191212","nama":"Bayu AAAA","totalNominal":15000,"informasi":[{"label_key":"Info1","label_value":"Tes Ting Abi tour"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":15000}],"idTagihan":"344"}"
+
+string(19) "2024-07-17 14:00:13"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 14:00:13"
+string(432) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717070013","idTransaksi":"6196350717070013000451","checksum":"bf68086b764c1831473dcfcf2c022c62103cc2bd","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"02716baf319777ca309251259cf7a2a040f75c53b3ce5b07b8a88011bb418f74"}"
+
+string(19) "2024-07-17 14:00:13"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717070013"
+  ["idTransaksi"]=>
+  string(22) "6196350717070013000451"
+  ["checksum"]=>
+  string(40) "bf68086b764c1831473dcfcf2c022c62103cc2bd"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "02716baf319777ca309251259cf7a2a040f75c53b3ce5b07b8a88011bb418f74"
+}
+
+string(19) "2024-07-17 14:00:13"
+array(11) {
+  ["id_invoice"]=>
+  string(3) "344"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nik"]=>
+  string(5) "17089"
+  ["nama"]=>
+  string(9) "Bayu AAAA"
+  ["nominal_tagihan"]=>
+  int(15000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 14:00:13"
+array(11) {
+  ["id_invoice"]=>
+  string(3) "344"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nik"]=>
+  string(5) "17089"
+  ["nama"]=>
+  string(9) "Bayu AAAA"
+  ["nominal_tagihan"]=>
+  int(15000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 14:00:13"
+string(349) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"1912191212","idPelanggan":"1912191212","nama":"Bayu AAAA","totalNominal":15000,"informasi":[{"label_key":"Info1","label_value":"Tes Ting Abi tour"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":15000}],"idTagihan":"344"}"
+
+string(19) "2024-07-17 14:00:20"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 14:00:20"
+string(576) "{"action":"payment","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717070019","idTransaksi":"0833860717070019000451","idTagihan":"344","totalNominal":"15000","nomorJurnalPembukuan":"0833860717070019000451","checksum":"3e8cbee05ed6d465772d0125cf153a4aef97b28d","rekeningPembayar":"9999999999999999","checksum256":"dc868b70d6d1716254b85794762c809b8a2be6a485ba83e8b9ade675bf81f92d","totalFee":2500,"penanggungFee":"Nasabah","totalNominalPembayaranDanFee":17500}"
+
+string(19) "2024-07-17 14:00:20"
+array(17) {
+  ["action"]=>
+  string(7) "payment"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717070019"
+  ["idTransaksi"]=>
+  string(22) "0833860717070019000451"
+  ["idTagihan"]=>
+  string(3) "344"
+  ["totalNominal"]=>
+  string(5) "15000"
+  ["nomorJurnalPembukuan"]=>
+  string(22) "0833860717070019000451"
+  ["checksum"]=>
+  string(40) "3e8cbee05ed6d465772d0125cf153a4aef97b28d"
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "dc868b70d6d1716254b85794762c809b8a2be6a485ba83e8b9ade675bf81f92d"
+  ["totalFee"]=>
+  int(2500)
+  ["penanggungFee"]=>
+  string(7) "Nasabah"
+  ["totalNominalPembayaranDanFee"]=>
+  int(17500)
+}
+
+string(19) "2024-07-17 14:00:20"
+array(11) {
+  ["id_invoice"]=>
+  string(3) "344"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nik"]=>
+  string(5) "17089"
+  ["nama"]=>
+  string(9) "Bayu AAAA"
+  ["nominal_tagihan"]=>
+  int(15000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 14:00:20"
+array(11) {
+  ["id_invoice"]=>
+  string(3) "344"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nik"]=>
+  string(5) "17089"
+  ["nama"]=>
+  string(9) "Bayu AAAA"
+  ["nominal_tagihan"]=>
+  int(15000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-17 14:00:20"
+string(13) "START PAYMENT"
+
+string(19) "2024-07-17 14:00:20"
+string(3) "XXX"
+
+string(19) "2024-07-17 14:00:20"
+string(3) "YYY"
+
+string(19) "2024-07-17 14:00:20"
+string(11) "END PAYMENT"
+
+string(19) "2024-07-17 14:00:20"
+array(9) {
+  ["rc"]=>
+  string(2) "OK"
+  ["msg"]=>
+  string(16) "Payment Succeded"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["idPelanggan"]=>
+  string(10) "1912191212"
+  ["nama"]=>
+  string(9) "Bayu AAAA"
+  ["totalNominal"]=>
+  int(15000)
+  ["informasi"]=>
+  array(2) {
+    [0]=>
+    array(2) {
+      ["label_key"]=>
+      string(5) "Info1"
+      ["label_value"]=>
+      string(17) "Tes Ting Abi tour"
+    }
+    [1]=>
+    array(2) {
+      ["label_key"]=>
+      string(5) "Info2"
+      ["label_value"]=>
+      string(0) ""
+    }
+  }
+  ["rincian"]=>
+  array(1) {
+    [0]=>
+    array(3) {
+      ["kode_rincian"]=>
+      string(7) "TAGIHAN"
+      ["deskripsi"]=>
+      string(7) "TAGIHAN"
+      ["nominal"]=>
+      int(15000)
+    }
+  }
+  ["idTagihan"]=>
+  string(3) "344"
+}
+
+string(19) "2024-07-17 14:00:20"
+string(348) "RESPONSE: {"rc":"OK","msg":"Payment Succeded","nomorPembayaran":"1912191212","idPelanggan":"1912191212","nama":"Bayu AAAA","totalNominal":15000,"informasi":[{"label_key":"Info1","label_value":"Tes Ting Abi tour"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":15000}],"idTagihan":"344"}"
+
+string(19) "2024-07-17 14:00:40"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 14:00:40"
+string(433) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI RE-INQ abitour. id@gma","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717140039","idTransaksi":"5923310717140039000451","checksum":"b35f9895cad75df58d650460be35dd157056e088","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"55f17a953ed98fae2508d7c43d54f30837379528198be2d7b60dc603f1916300"}"
+
+string(19) "2024-07-17 14:00:40"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI RE-INQ abitour. id@gma"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717140039"
+  ["idTransaksi"]=>
+  string(22) "5923310717140039000451"
+  ["checksum"]=>
+  string(40) "b35f9895cad75df58d650460be35dd157056e088"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "55f17a953ed98fae2508d7c43d54f30837379528198be2d7b60dc603f1916300"
+}
+
+string(19) "2024-07-17 14:00:40"
+array(11) {
+  ["id_invoice"]=>
+  string(3) "344"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nik"]=>
+  string(5) "17089"
+  ["nama"]=>
+  string(9) "Bayu AAAA"
+  ["nominal_tagihan"]=>
+  int(15000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  string(22) "0833860717070019000451"
+  ["waktu_transaksi"]=>
+  string(19) "2024-07-17 14:00:20"
+  ["channel_pembayaran"]=>
+  string(8) "FLAGGING"
+  ["status_pembayaran"]=>
+  string(6) "SUKSES"
+}
+
+string(19) "2024-07-17 14:00:40"
+NULL
+
+string(19) "2024-07-17 14:00:40"
+string(58) "RESPONSE: {"rc":"ERR-ALREADY-PAID","msg":"Sudah Terbayar"}"
+
+string(19) "2024-07-17 14:01:12"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 14:01:12"
+string(433) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI RE-INQ abitour. id@gma","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717140111","idTransaksi":"9028280717140111000451","checksum":"62bd82892aa0cf73ce8294d447590960e2641f6c","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"5d4312fc71d7d2e9afd87c6cc9f64f9ffc190b69d047c0b62cb259418462507d"}"
+
+string(19) "2024-07-17 14:01:12"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI RE-INQ abitour. id@gma"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717140111"
+  ["idTransaksi"]=>
+  string(22) "9028280717140111000451"
+  ["checksum"]=>
+  string(40) "62bd82892aa0cf73ce8294d447590960e2641f6c"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "5d4312fc71d7d2e9afd87c6cc9f64f9ffc190b69d047c0b62cb259418462507d"
+}
+
+string(19) "2024-07-17 14:01:12"
+array(11) {
+  ["id_invoice"]=>
+  string(3) "344"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nik"]=>
+  string(5) "17089"
+  ["nama"]=>
+  string(9) "Bayu AAAA"
+  ["nominal_tagihan"]=>
+  int(15000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  string(22) "0833860717070019000451"
+  ["waktu_transaksi"]=>
+  string(19) "2024-07-17 14:00:20"
+  ["channel_pembayaran"]=>
+  string(8) "FLAGGING"
+  ["status_pembayaran"]=>
+  string(6) "SUKSES"
+}
+
+string(19) "2024-07-17 14:01:12"
+NULL
+
+string(19) "2024-07-17 14:01:12"
+string(58) "RESPONSE: {"rc":"ERR-ALREADY-PAID","msg":"Sudah Terbayar"}"
+
+string(19) "2024-07-17 14:01:44"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 14:01:44"
+string(433) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI RE-INQ abitour. id@gma","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717140142","idTransaksi":"9028280717140142000451","checksum":"eefd1d5abc615ac7cc93836d2253c198a6dcb3a0","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"2838c327b1b3775bca3487fa95760a57a1b55e7fb8136d846d54f550d0184cce"}"
+
+string(19) "2024-07-17 14:01:44"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI RE-INQ abitour. id@gma"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717140142"
+  ["idTransaksi"]=>
+  string(22) "9028280717140142000451"
+  ["checksum"]=>
+  string(40) "eefd1d5abc615ac7cc93836d2253c198a6dcb3a0"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "2838c327b1b3775bca3487fa95760a57a1b55e7fb8136d846d54f550d0184cce"
+}
+
+string(19) "2024-07-17 14:01:44"
+array(11) {
+  ["id_invoice"]=>
+  string(3) "344"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nik"]=>
+  string(5) "17089"
+  ["nama"]=>
+  string(9) "Bayu AAAA"
+  ["nominal_tagihan"]=>
+  int(15000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  string(22) "0833860717070019000451"
+  ["waktu_transaksi"]=>
+  string(19) "2024-07-17 14:00:20"
+  ["channel_pembayaran"]=>
+  string(8) "FLAGGING"
+  ["status_pembayaran"]=>
+  string(6) "SUKSES"
+}
+
+string(19) "2024-07-17 14:01:44"
+NULL
+
+string(19) "2024-07-17 14:01:44"
+string(58) "RESPONSE: {"rc":"ERR-ALREADY-PAID","msg":"Sudah Terbayar"}"
+
+string(19) "2024-07-17 14:02:15"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 14:02:15"
+string(433) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI RE-INQ abitour. id@gma","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717140214","idTransaksi":"9028280717140214000451","checksum":"2a8459b4f24606c9822a0b00318558b47e902eb2","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"dd593adc110d6992eacdf133f80600472d8ed5c17c940c9e873df7c7042943bf"}"
+
+string(19) "2024-07-17 14:02:15"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI RE-INQ abitour. id@gma"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717140214"
+  ["idTransaksi"]=>
+  string(22) "9028280717140214000451"
+  ["checksum"]=>
+  string(40) "2a8459b4f24606c9822a0b00318558b47e902eb2"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "dd593adc110d6992eacdf133f80600472d8ed5c17c940c9e873df7c7042943bf"
+}
+
+string(19) "2024-07-17 14:02:15"
+array(11) {
+  ["id_invoice"]=>
+  string(3) "344"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nik"]=>
+  string(5) "17089"
+  ["nama"]=>
+  string(9) "Bayu AAAA"
+  ["nominal_tagihan"]=>
+  int(15000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  string(22) "0833860717070019000451"
+  ["waktu_transaksi"]=>
+  string(19) "2024-07-17 14:00:20"
+  ["channel_pembayaran"]=>
+  string(8) "FLAGGING"
+  ["status_pembayaran"]=>
+  string(6) "SUKSES"
+}
+
+string(19) "2024-07-17 14:02:15"
+NULL
+
+string(19) "2024-07-17 14:02:15"
+string(58) "RESPONSE: {"rc":"ERR-ALREADY-PAID","msg":"Sudah Terbayar"}"
+
+string(19) "2024-07-17 14:02:47"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 14:02:47"
+string(433) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI RE-INQ abitour. id@gma","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717140246","idTransaksi":"9028280717140246000451","checksum":"dfb5ed1e8ee6193e7dde20eac2840c37a356a4de","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"292ae1025f4e3c7646b841d69a13b1ae69b0b9f37495d24555b3b0437828367d"}"
+
+string(19) "2024-07-17 14:02:47"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI RE-INQ abitour. id@gma"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717140246"
+  ["idTransaksi"]=>
+  string(22) "9028280717140246000451"
+  ["checksum"]=>
+  string(40) "dfb5ed1e8ee6193e7dde20eac2840c37a356a4de"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "292ae1025f4e3c7646b841d69a13b1ae69b0b9f37495d24555b3b0437828367d"
+}
+
+string(19) "2024-07-17 14:02:47"
+array(11) {
+  ["id_invoice"]=>
+  string(3) "344"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nik"]=>
+  string(5) "17089"
+  ["nama"]=>
+  string(9) "Bayu AAAA"
+  ["nominal_tagihan"]=>
+  int(15000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  string(22) "0833860717070019000451"
+  ["waktu_transaksi"]=>
+  string(19) "2024-07-17 14:00:20"
+  ["channel_pembayaran"]=>
+  string(8) "FLAGGING"
+  ["status_pembayaran"]=>
+  string(6) "SUKSES"
+}
+
+string(19) "2024-07-17 14:02:47"
+NULL
+
+string(19) "2024-07-17 14:02:47"
+string(58) "RESPONSE: {"rc":"ERR-ALREADY-PAID","msg":"Sudah Terbayar"}"
+
+string(19) "2024-07-17 14:03:19"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 14:03:19"
+string(433) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI RE-INQ abitour. id@gma","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717140318","idTransaksi":"9028280717140318000451","checksum":"e549c8bcb4f177cbd5c35255b97460366b93096d","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"e4d1b76029b567440441e0e571f1c348b0f3247619c2ed5b835c698c24758f28"}"
+
+string(19) "2024-07-17 14:03:19"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI RE-INQ abitour. id@gma"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717140318"
+  ["idTransaksi"]=>
+  string(22) "9028280717140318000451"
+  ["checksum"]=>
+  string(40) "e549c8bcb4f177cbd5c35255b97460366b93096d"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "e4d1b76029b567440441e0e571f1c348b0f3247619c2ed5b835c698c24758f28"
+}
+
+string(19) "2024-07-17 14:03:19"
+array(11) {
+  ["id_invoice"]=>
+  string(3) "344"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nik"]=>
+  string(5) "17089"
+  ["nama"]=>
+  string(9) "Bayu AAAA"
+  ["nominal_tagihan"]=>
+  int(15000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  string(22) "0833860717070019000451"
+  ["waktu_transaksi"]=>
+  string(19) "2024-07-17 14:00:20"
+  ["channel_pembayaran"]=>
+  string(8) "FLAGGING"
+  ["status_pembayaran"]=>
+  string(6) "SUKSES"
+}
+
+string(19) "2024-07-17 14:03:19"
+NULL
+
+string(19) "2024-07-17 14:03:19"
+string(58) "RESPONSE: {"rc":"ERR-ALREADY-PAID","msg":"Sudah Terbayar"}"
+
+string(19) "2024-07-17 14:03:50"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 14:03:50"
+string(433) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI RE-INQ abitour. id@gma","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717140349","idTransaksi":"9028280717140349000451","checksum":"595450efb969146120210747130e939781d2c06a","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"7e1a12927efc2a728624cab3ee568c43017d73bea4df01da5108939b3c769b76"}"
+
+string(19) "2024-07-17 14:03:50"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI RE-INQ abitour. id@gma"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717140349"
+  ["idTransaksi"]=>
+  string(22) "9028280717140349000451"
+  ["checksum"]=>
+  string(40) "595450efb969146120210747130e939781d2c06a"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "7e1a12927efc2a728624cab3ee568c43017d73bea4df01da5108939b3c769b76"
+}
+
+string(19) "2024-07-17 14:03:50"
+array(11) {
+  ["id_invoice"]=>
+  string(3) "344"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nik"]=>
+  string(5) "17089"
+  ["nama"]=>
+  string(9) "Bayu AAAA"
+  ["nominal_tagihan"]=>
+  int(15000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  string(22) "0833860717070019000451"
+  ["waktu_transaksi"]=>
+  string(19) "2024-07-17 14:00:20"
+  ["channel_pembayaran"]=>
+  string(8) "FLAGGING"
+  ["status_pembayaran"]=>
+  string(6) "SUKSES"
+}
+
+string(19) "2024-07-17 14:03:50"
+NULL
+
+string(19) "2024-07-17 14:03:50"
+string(58) "RESPONSE: {"rc":"ERR-ALREADY-PAID","msg":"Sudah Terbayar"}"
+
+string(19) "2024-07-17 14:04:22"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 14:04:22"
+string(433) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI RE-INQ abitour. id@gma","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717140421","idTransaksi":"9028280717140421000451","checksum":"ddafa4ad3407bf8ee56c3d311100fc629eb1a5bd","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"06f918c995ddbc7abaa3dbd12292136d1c7aa8cc4d2ddc49d71aaa7cb0a41420"}"
+
+string(19) "2024-07-17 14:04:22"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI RE-INQ abitour. id@gma"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717140421"
+  ["idTransaksi"]=>
+  string(22) "9028280717140421000451"
+  ["checksum"]=>
+  string(40) "ddafa4ad3407bf8ee56c3d311100fc629eb1a5bd"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "06f918c995ddbc7abaa3dbd12292136d1c7aa8cc4d2ddc49d71aaa7cb0a41420"
+}
+
+string(19) "2024-07-17 14:04:22"
+array(11) {
+  ["id_invoice"]=>
+  string(3) "344"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nik"]=>
+  string(5) "17089"
+  ["nama"]=>
+  string(9) "Bayu AAAA"
+  ["nominal_tagihan"]=>
+  int(15000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  string(22) "0833860717070019000451"
+  ["waktu_transaksi"]=>
+  string(19) "2024-07-17 14:00:20"
+  ["channel_pembayaran"]=>
+  string(8) "FLAGGING"
+  ["status_pembayaran"]=>
+  string(6) "SUKSES"
+}
+
+string(19) "2024-07-17 14:04:22"
+NULL
+
+string(19) "2024-07-17 14:04:22"
+string(58) "RESPONSE: {"rc":"ERR-ALREADY-PAID","msg":"Sudah Terbayar"}"
+
+string(19) "2024-07-17 14:04:53"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 14:04:53"
+string(433) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI RE-INQ abitour. id@gma","nomorPembayaran":"1912191212","tanggalTransaksi":"20240717140452","idTransaksi":"9028280717140452000451","checksum":"595450e61a66c6a3cdabecea504a489c85f47bb1","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"95b89296e8bba18efcb14f6f11d43ba293ce72f3fbc00194dcc91063a6ee96d1"}"
+
+string(19) "2024-07-17 14:04:53"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(30) "Non-BSI RE-INQ abitour. id@gma"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240717140452"
+  ["idTransaksi"]=>
+  string(22) "9028280717140452000451"
+  ["checksum"]=>
+  string(40) "595450e61a66c6a3cdabecea504a489c85f47bb1"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "95b89296e8bba18efcb14f6f11d43ba293ce72f3fbc00194dcc91063a6ee96d1"
+}
+
+string(19) "2024-07-17 14:04:53"
+array(11) {
+  ["id_invoice"]=>
+  string(3) "344"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nik"]=>
+  string(5) "17089"
+  ["nama"]=>
+  string(9) "Bayu AAAA"
+  ["nominal_tagihan"]=>
+  int(15000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  string(22) "0833860717070019000451"
+  ["waktu_transaksi"]=>
+  string(19) "2024-07-17 14:00:20"
+  ["channel_pembayaran"]=>
+  string(8) "FLAGGING"
+  ["status_pembayaran"]=>
+  string(6) "SUKSES"
+}
+
+string(19) "2024-07-17 14:04:53"
+NULL
+
+string(19) "2024-07-17 14:04:53"
+string(58) "RESPONSE: {"rc":"ERR-ALREADY-PAID","msg":"Sudah Terbayar"}"
+
+string(19) "2024-07-17 14:54:17"
+string(9) "REQUEST: "
+
+string(19) "2024-07-17 14:54:17"
+string(0) ""
+

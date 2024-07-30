@@ -1,0 +1,1915 @@
+string(19) "2024-07-16 14:25:22"
+string(9) "REQUEST: "
+
+string(19) "2024-07-16 14:25:22"
+string(428) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"876876","tanggalTransaksi":"20240716072521","idTransaksi":"7857280716072521000451","checksum":"b9dbd700248663a07e1aeaac5790b6c276dfb86c","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"7321ce61db2be350b0592ecec06e21a8cef1bffdc82a3bfc66e84993bdc18b1e"}"
+
+string(19) "2024-07-16 14:25:22"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "876876"
+  ["tanggalTransaksi"]=>
+  string(14) "20240716072521"
+  ["idTransaksi"]=>
+  string(22) "7857280716072521000451"
+  ["checksum"]=>
+  string(40) "b9dbd700248663a07e1aeaac5790b6c276dfb86c"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "7321ce61db2be350b0592ecec06e21a8cef1bffdc82a3bfc66e84993bdc18b1e"
+}
+
+string(19) "2024-07-16 14:25:22"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(1250000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:25:22"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(1250000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:25:22"
+string(362) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"876876","idPelanggan":"876876","nama":"Ronny Afriansyah","totalNominal":1250000,"informasi":[{"label_key":"Info1","label_value":"Fakultas Ilmu Komputer"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":1250000}],"idTagihan":"JUL\/002"}"
+
+string(19) "2024-07-16 14:26:05"
+string(9) "REQUEST: "
+
+string(19) "2024-07-16 14:26:05"
+string(428) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"876876","tanggalTransaksi":"20240716072604","idTransaksi":"1627910716072604000451","checksum":"aa296b139a9ed1fd268954814a6d5463917a8750","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"3a93926a8bf72d261c10449a05472bbe85a03352102d2ef4f84c4eb84e471d2a"}"
+
+string(19) "2024-07-16 14:26:05"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "876876"
+  ["tanggalTransaksi"]=>
+  string(14) "20240716072604"
+  ["idTransaksi"]=>
+  string(22) "1627910716072604000451"
+  ["checksum"]=>
+  string(40) "aa296b139a9ed1fd268954814a6d5463917a8750"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "3a93926a8bf72d261c10449a05472bbe85a03352102d2ef4f84c4eb84e471d2a"
+}
+
+string(19) "2024-07-16 14:26:05"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(1250000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:26:05"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(1250000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:26:05"
+string(362) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"876876","idPelanggan":"876876","nama":"Ronny Afriansyah","totalNominal":1250000,"informasi":[{"label_key":"Info1","label_value":"Fakultas Ilmu Komputer"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":1250000}],"idTagihan":"JUL\/002"}"
+
+string(19) "2024-07-16 14:27:09"
+string(9) "REQUEST: "
+
+string(19) "2024-07-16 14:27:09"
+string(421) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"MBANK","kodeTerminal":"BSI OM360451 087095533625","nomorPembayaran":"876876","tanggalTransaksi":"20240716072708","idTransaksi":"8279170716072708000451","checksum":"be74047319c0b292298beed6d23eaa32bf8f0c3f","totalNominalInquiry":0,"rekeningPembayar":"7777777777777777","checksum256":"cf1de5323198ba23761b65c2a1ab1b2a1914909325a3d39ce3723a8dc03a5967"}"
+
+string(19) "2024-07-16 14:27:09"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(5) "MBANK"
+  ["kodeTerminal"]=>
+  string(25) "BSI OM360451 087095533625"
+  ["nomorPembayaran"]=>
+  string(6) "876876"
+  ["tanggalTransaksi"]=>
+  string(14) "20240716072708"
+  ["idTransaksi"]=>
+  string(22) "8279170716072708000451"
+  ["checksum"]=>
+  string(40) "be74047319c0b292298beed6d23eaa32bf8f0c3f"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "7777777777777777"
+  ["checksum256"]=>
+  string(64) "cf1de5323198ba23761b65c2a1ab1b2a1914909325a3d39ce3723a8dc03a5967"
+}
+
+string(19) "2024-07-16 14:27:09"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(1250000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:27:09"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(1250000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:27:09"
+string(362) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"876876","idPelanggan":"876876","nama":"Ronny Afriansyah","totalNominal":1250000,"informasi":[{"label_key":"Info1","label_value":"Fakultas Ilmu Komputer"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":1250000}],"idTagihan":"JUL\/002"}"
+
+string(19) "2024-07-16 14:27:54"
+string(9) "REQUEST: "
+
+string(19) "2024-07-16 14:27:54"
+string(428) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"876876","tanggalTransaksi":"20240716072753","idTransaksi":"7998280716072753000451","checksum":"9bfcda009b2e688feb8a585910ea260fecb63cac","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"b41cfdabafeffb5abf3da2d1edb88f27b023d9b16a56694b38318c59b3c51dc9"}"
+
+string(19) "2024-07-16 14:27:54"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "876876"
+  ["tanggalTransaksi"]=>
+  string(14) "20240716072753"
+  ["idTransaksi"]=>
+  string(22) "7998280716072753000451"
+  ["checksum"]=>
+  string(40) "9bfcda009b2e688feb8a585910ea260fecb63cac"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "b41cfdabafeffb5abf3da2d1edb88f27b023d9b16a56694b38318c59b3c51dc9"
+}
+
+string(19) "2024-07-16 14:27:54"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(500)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:27:54"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(500)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:27:54"
+string(354) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"876876","idPelanggan":"876876","nama":"Ronny Afriansyah","totalNominal":500,"informasi":[{"label_key":"Info1","label_value":"Fakultas Ilmu Komputer"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":500}],"idTagihan":"JUL\/002"}"
+
+string(19) "2024-07-16 14:28:36"
+string(9) "REQUEST: "
+
+string(19) "2024-07-16 14:28:36"
+string(428) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"876876","tanggalTransaksi":"20240716072835","idTransaksi":"0228010716072835000451","checksum":"4f2e0b72189bbe827598cde78feed9def77538eb","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"f16b00b384aa9563c0a93f28e95b514aa0ff81dbdcb55a0067da206f173d57f1"}"
+
+string(19) "2024-07-16 14:28:36"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "876876"
+  ["tanggalTransaksi"]=>
+  string(14) "20240716072835"
+  ["idTransaksi"]=>
+  string(22) "0228010716072835000451"
+  ["checksum"]=>
+  string(40) "4f2e0b72189bbe827598cde78feed9def77538eb"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "f16b00b384aa9563c0a93f28e95b514aa0ff81dbdcb55a0067da206f173d57f1"
+}
+
+string(19) "2024-07-16 14:28:36"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(500)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:28:36"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(500)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:28:36"
+string(354) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"876876","idPelanggan":"876876","nama":"Ronny Afriansyah","totalNominal":500,"informasi":[{"label_key":"Info1","label_value":"Fakultas Ilmu Komputer"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":500}],"idTagihan":"JUL\/002"}"
+
+string(19) "2024-07-16 14:29:13"
+string(9) "REQUEST: "
+
+string(19) "2024-07-16 14:29:13"
+string(428) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"876876","tanggalTransaksi":"20240716072912","idTransaksi":"3887430716072912000451","checksum":"e1d0eae26fbe4c0c1b94123bc2a296edb3d51c62","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"60deb35b1eb7651691bf0cd050ddb80a2f6acc58dbd205971949de36c5d011de"}"
+
+string(19) "2024-07-16 14:29:13"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "876876"
+  ["tanggalTransaksi"]=>
+  string(14) "20240716072912"
+  ["idTransaksi"]=>
+  string(22) "3887430716072912000451"
+  ["checksum"]=>
+  string(40) "e1d0eae26fbe4c0c1b94123bc2a296edb3d51c62"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "60deb35b1eb7651691bf0cd050ddb80a2f6acc58dbd205971949de36c5d011de"
+}
+
+string(19) "2024-07-16 14:29:13"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(2000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:29:13"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(2000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:29:13"
+string(356) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"876876","idPelanggan":"876876","nama":"Ronny Afriansyah","totalNominal":2000,"informasi":[{"label_key":"Info1","label_value":"Fakultas Ilmu Komputer"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":2000}],"idTagihan":"JUL\/002"}"
+
+string(19) "2024-07-16 14:34:59"
+string(9) "REQUEST: "
+
+string(19) "2024-07-16 14:34:59"
+string(428) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"876876","tanggalTransaksi":"20240716073457","idTransaksi":"5757830716073457000451","checksum":"b9daa788f8621b1d88bf7a8d5b5f8501deeffeba","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"38ede3477928505ceafd675020caec9f6bbfb183dabf333e450d116a46541374"}"
+
+string(19) "2024-07-16 14:34:59"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "876876"
+  ["tanggalTransaksi"]=>
+  string(14) "20240716073457"
+  ["idTransaksi"]=>
+  string(22) "5757830716073457000451"
+  ["checksum"]=>
+  string(40) "b9daa788f8621b1d88bf7a8d5b5f8501deeffeba"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "38ede3477928505ceafd675020caec9f6bbfb183dabf333e450d116a46541374"
+}
+
+string(19) "2024-07-16 14:34:59"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(2000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:34:59"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(2000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:34:59"
+string(356) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"876876","idPelanggan":"876876","nama":"Ronny Afriansyah","totalNominal":2000,"informasi":[{"label_key":"Info1","label_value":"Fakultas Ilmu Komputer"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":2000}],"idTagihan":"JUL\/002"}"
+
+string(19) "2024-07-16 14:38:35"
+string(9) "REQUEST: "
+
+string(19) "2024-07-16 14:38:35"
+string(428) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"876876","tanggalTransaksi":"20240716073834","idTransaksi":"5989240716073834000451","checksum":"f2935c8c378e4da83c7ca793d483af22b8632177","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"1687fde4a57faa2f3d68e88433191b5b783225dd75b65659a0bbbb3e105bec34"}"
+
+string(19) "2024-07-16 14:38:35"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "876876"
+  ["tanggalTransaksi"]=>
+  string(14) "20240716073834"
+  ["idTransaksi"]=>
+  string(22) "5989240716073834000451"
+  ["checksum"]=>
+  string(40) "f2935c8c378e4da83c7ca793d483af22b8632177"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "1687fde4a57faa2f3d68e88433191b5b783225dd75b65659a0bbbb3e105bec34"
+}
+
+string(19) "2024-07-16 14:38:35"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(2000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:38:35"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(2000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:38:35"
+string(356) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"876876","idPelanggan":"876876","nama":"Ronny Afriansyah","totalNominal":2000,"informasi":[{"label_key":"Info1","label_value":"Fakultas Ilmu Komputer"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":2000}],"idTagihan":"JUL\/002"}"
+
+string(19) "2024-07-16 14:39:02"
+string(9) "REQUEST: "
+
+string(19) "2024-07-16 14:39:02"
+string(428) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"876876","tanggalTransaksi":"20240716073901","idTransaksi":"8476430716073901000451","checksum":"6be10a7a3e9e9d05977e96795e82dbf9515810b4","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"1da2038fdbea3323d446d5c50b01214a14903b58317e64473814bce6ded8d6c1"}"
+
+string(19) "2024-07-16 14:39:02"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "876876"
+  ["tanggalTransaksi"]=>
+  string(14) "20240716073901"
+  ["idTransaksi"]=>
+  string(22) "8476430716073901000451"
+  ["checksum"]=>
+  string(40) "6be10a7a3e9e9d05977e96795e82dbf9515810b4"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "1da2038fdbea3323d446d5c50b01214a14903b58317e64473814bce6ded8d6c1"
+}
+
+string(19) "2024-07-16 14:39:02"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:39:02"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:39:02"
+string(358) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"876876","idPelanggan":"876876","nama":"Ronny Afriansyah","totalNominal":10000,"informasi":[{"label_key":"Info1","label_value":"Fakultas Ilmu Komputer"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":10000}],"idTagihan":"JUL\/002"}"
+
+string(19) "2024-07-16 14:39:22"
+string(9) "REQUEST: "
+
+string(19) "2024-07-16 14:39:22"
+string(428) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"191211","tanggalTransaksi":"20240716073921","idTransaksi":"5887820716073921000451","checksum":"3418748505c97c44d212367dbe59ea3d6630aa80","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"e9d9ea285b3c292c696fc341659020550ec3554229c6db26ace1d7e142b47740"}"
+
+string(19) "2024-07-16 14:39:22"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "191211"
+  ["tanggalTransaksi"]=>
+  string(14) "20240716073921"
+  ["idTransaksi"]=>
+  string(22) "5887820716073921000451"
+  ["checksum"]=>
+  string(40) "3418748505c97c44d212367dbe59ea3d6630aa80"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "e9d9ea285b3c292c696fc341659020550ec3554229c6db26ace1d7e142b47740"
+}
+
+string(19) "2024-07-16 14:39:22"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/004"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(6) "191211"
+  ["nik"]=>
+  string(10) "2131242112"
+  ["nama"]=>
+  string(10) "SIbagus OK"
+  ["nominal_tagihan"]=>
+  int(50000)
+  ["informasi"]=>
+  string(14) "Haji Plus Plus"
+  ["nomor_jurnal_pembukuan"]=>
+  string(22) "1509520716040209000451"
+  ["waktu_transaksi"]=>
+  string(19) "2024-07-16 11:02:09"
+  ["channel_pembayaran"]=>
+  string(8) "FLAGGING"
+  ["status_pembayaran"]=>
+  string(6) "SUKSES"
+}
+
+string(19) "2024-07-16 14:39:22"
+NULL
+
+string(19) "2024-07-16 14:39:22"
+string(58) "RESPONSE: {"rc":"ERR-ALREADY-PAID","msg":"Sudah Terbayar"}"
+
+string(19) "2024-07-16 14:39:31"
+string(9) "REQUEST: "
+
+string(19) "2024-07-16 14:39:31"
+string(428) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"876876","tanggalTransaksi":"20240716073930","idTransaksi":"4016230716073930000451","checksum":"387ccaf3e8efb13dcf6c7667cd72e84accad4883","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"6959790a2f517f8b7066a4df8e83bed0631b991fe6364768b9d7defe13000dd9"}"
+
+string(19) "2024-07-16 14:39:31"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "876876"
+  ["tanggalTransaksi"]=>
+  string(14) "20240716073930"
+  ["idTransaksi"]=>
+  string(22) "4016230716073930000451"
+  ["checksum"]=>
+  string(40) "387ccaf3e8efb13dcf6c7667cd72e84accad4883"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "6959790a2f517f8b7066a4df8e83bed0631b991fe6364768b9d7defe13000dd9"
+}
+
+string(19) "2024-07-16 14:39:31"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:39:31"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:39:31"
+string(358) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"876876","idPelanggan":"876876","nama":"Ronny Afriansyah","totalNominal":10000,"informasi":[{"label_key":"Info1","label_value":"Fakultas Ilmu Komputer"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":10000}],"idTagihan":"JUL\/002"}"
+
+string(19) "2024-07-16 14:39:43"
+string(9) "REQUEST: "
+
+string(19) "2024-07-16 14:39:43"
+string(428) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"876876","tanggalTransaksi":"20240716073942","idTransaksi":"5388740716073942000451","checksum":"b3f9fc7443a141f4f4acb6b2b54d535cdfda835a","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"54babd6c554a2cb1ca614a35ae3225480a2c1c4eb5ed806f68225031073d937b"}"
+
+string(19) "2024-07-16 14:39:43"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "876876"
+  ["tanggalTransaksi"]=>
+  string(14) "20240716073942"
+  ["idTransaksi"]=>
+  string(22) "5388740716073942000451"
+  ["checksum"]=>
+  string(40) "b3f9fc7443a141f4f4acb6b2b54d535cdfda835a"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "54babd6c554a2cb1ca614a35ae3225480a2c1c4eb5ed806f68225031073d937b"
+}
+
+string(19) "2024-07-16 14:39:43"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(100000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:39:43"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(100000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:39:43"
+string(360) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"876876","idPelanggan":"876876","nama":"Ronny Afriansyah","totalNominal":100000,"informasi":[{"label_key":"Info1","label_value":"Fakultas Ilmu Komputer"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":100000}],"idTagihan":"JUL\/002"}"
+
+string(19) "2024-07-16 14:40:01"
+string(9) "REQUEST: "
+
+string(19) "2024-07-16 14:40:01"
+string(428) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"876876","tanggalTransaksi":"20240716074000","idTransaksi":"6982910716074000000451","checksum":"d3cd28ebd68eadee8bb1c66b5b6adfa0eb20d768","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"fd062c27153493ac578c3d88ae10640d46a31abe13bb5f6fd24f55bc99e8c3b4"}"
+
+string(19) "2024-07-16 14:40:01"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "876876"
+  ["tanggalTransaksi"]=>
+  string(14) "20240716074000"
+  ["idTransaksi"]=>
+  string(22) "6982910716074000000451"
+  ["checksum"]=>
+  string(40) "d3cd28ebd68eadee8bb1c66b5b6adfa0eb20d768"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "fd062c27153493ac578c3d88ae10640d46a31abe13bb5f6fd24f55bc99e8c3b4"
+}
+
+string(19) "2024-07-16 14:40:01"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:40:01"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:40:01"
+string(358) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"876876","idPelanggan":"876876","nama":"Ronny Afriansyah","totalNominal":10000,"informasi":[{"label_key":"Info1","label_value":"Fakultas Ilmu Komputer"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":10000}],"idTagihan":"JUL\/002"}"
+
+string(19) "2024-07-16 14:48:40"
+string(9) "REQUEST: "
+
+string(19) "2024-07-16 14:48:40"
+string(428) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"876876","tanggalTransaksi":"20240716074839","idTransaksi":"4373030716074839000451","checksum":"15f5ee314f70439760bea84e3254ca45423885bf","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"32f75a951909334a1e5891e4c46c0e07a565db5ea517efb25b9b2ab21632d881"}"
+
+string(19) "2024-07-16 14:48:40"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "876876"
+  ["tanggalTransaksi"]=>
+  string(14) "20240716074839"
+  ["idTransaksi"]=>
+  string(22) "4373030716074839000451"
+  ["checksum"]=>
+  string(40) "15f5ee314f70439760bea84e3254ca45423885bf"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "32f75a951909334a1e5891e4c46c0e07a565db5ea517efb25b9b2ab21632d881"
+}
+
+string(19) "2024-07-16 14:48:40"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:48:40"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:48:40"
+string(358) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"876876","idPelanggan":"876876","nama":"Ronny Afriansyah","totalNominal":10000,"informasi":[{"label_key":"Info1","label_value":"Fakultas Ilmu Komputer"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":10000}],"idTagihan":"JUL\/002"}"
+
+string(19) "2024-07-16 14:49:00"
+string(9) "REQUEST: "
+
+string(19) "2024-07-16 14:49:00"
+string(428) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"876876","tanggalTransaksi":"20240716074859","idTransaksi":"7887760716074859000451","checksum":"77968f70e7b89fb155b4ec6129d4e99c21796e0a","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"31632237c725d5249c35e3919c8e05b06a2d5d052701f751917228277d8bcf12"}"
+
+string(19) "2024-07-16 14:49:00"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "876876"
+  ["tanggalTransaksi"]=>
+  string(14) "20240716074859"
+  ["idTransaksi"]=>
+  string(22) "7887760716074859000451"
+  ["checksum"]=>
+  string(40) "77968f70e7b89fb155b4ec6129d4e99c21796e0a"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "31632237c725d5249c35e3919c8e05b06a2d5d052701f751917228277d8bcf12"
+}
+
+string(19) "2024-07-16 14:49:00"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:49:00"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:49:00"
+string(358) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"876876","idPelanggan":"876876","nama":"Ronny Afriansyah","totalNominal":10000,"informasi":[{"label_key":"Info1","label_value":"Fakultas Ilmu Komputer"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":10000}],"idTagihan":"JUL\/002"}"
+
+string(19) "2024-07-16 14:49:07"
+string(9) "REQUEST: "
+
+string(19) "2024-07-16 14:49:07"
+string(428) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"876876","tanggalTransaksi":"20240716074907","idTransaksi":"9186130716074907000451","checksum":"a7464c69d2276c2e40d0f14db96c67dedc291428","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"84162188b3acf38f66b93b80fdd95d4793179309bf63fd2c71c0e1a6b750ee4c"}"
+
+string(19) "2024-07-16 14:49:07"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "876876"
+  ["tanggalTransaksi"]=>
+  string(14) "20240716074907"
+  ["idTransaksi"]=>
+  string(22) "9186130716074907000451"
+  ["checksum"]=>
+  string(40) "a7464c69d2276c2e40d0f14db96c67dedc291428"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "84162188b3acf38f66b93b80fdd95d4793179309bf63fd2c71c0e1a6b750ee4c"
+}
+
+string(19) "2024-07-16 14:49:07"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:49:07"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:49:07"
+string(358) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"876876","idPelanggan":"876876","nama":"Ronny Afriansyah","totalNominal":10000,"informasi":[{"label_key":"Info1","label_value":"Fakultas Ilmu Komputer"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":10000}],"idTagihan":"JUL\/002"}"
+
+string(19) "2024-07-16 14:50:19"
+string(9) "REQUEST: "
+
+string(19) "2024-07-16 14:50:19"
+string(428) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"876876","tanggalTransaksi":"20240716075018","idTransaksi":"3446660716075018000451","checksum":"20f4f732a36f3c857d0ead7370ee0959a1bcc2f5","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"acda384ca2412fc92de6aeceb98b9c36679507907ababe0d14782b3a2094b79c"}"
+
+string(19) "2024-07-16 14:50:19"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "876876"
+  ["tanggalTransaksi"]=>
+  string(14) "20240716075018"
+  ["idTransaksi"]=>
+  string(22) "3446660716075018000451"
+  ["checksum"]=>
+  string(40) "20f4f732a36f3c857d0ead7370ee0959a1bcc2f5"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "acda384ca2412fc92de6aeceb98b9c36679507907ababe0d14782b3a2094b79c"
+}
+
+string(19) "2024-07-16 14:50:19"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:50:19"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:50:19"
+string(358) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"876876","idPelanggan":"876876","nama":"Ronny Afriansyah","totalNominal":10000,"informasi":[{"label_key":"Info1","label_value":"Fakultas Ilmu Komputer"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":10000}],"idTagihan":"JUL\/002"}"
+
+string(19) "2024-07-16 14:51:17"
+string(9) "REQUEST: "
+
+string(19) "2024-07-16 14:51:17"
+string(428) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"876876","tanggalTransaksi":"20240716075114","idTransaksi":"4764000716075114000451","checksum":"e289d26cfcfa0f3a6b6b8dc9ab8bf6c958ee3e50","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"1f6ddcb65ce7c0de9a46f2c1cfec6e7679021174bfb0acd92c81b675aaf3bfc0"}"
+
+string(19) "2024-07-16 14:51:17"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "876876"
+  ["tanggalTransaksi"]=>
+  string(14) "20240716075114"
+  ["idTransaksi"]=>
+  string(22) "4764000716075114000451"
+  ["checksum"]=>
+  string(40) "e289d26cfcfa0f3a6b6b8dc9ab8bf6c958ee3e50"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "1f6ddcb65ce7c0de9a46f2c1cfec6e7679021174bfb0acd92c81b675aaf3bfc0"
+}
+
+string(19) "2024-07-16 14:51:17"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:51:17"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/002"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-06"
+  ["nomor_siswa"]=>
+  string(6) "876876"
+  ["nik"]=>
+  string(0) ""
+  ["nama"]=>
+  string(16) "Ronny Afriansyah"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(22) "Fakultas Ilmu Komputer"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 14:51:17"
+string(358) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"876876","idPelanggan":"876876","nama":"Ronny Afriansyah","totalNominal":10000,"informasi":[{"label_key":"Info1","label_value":"Fakultas Ilmu Komputer"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":10000}],"idTagihan":"JUL\/002"}"
+
+string(19) "2024-07-16 15:37:37"
+string(9) "REQUEST: "
+
+string(19) "2024-07-16 15:37:37"
+string(428) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"481482","tanggalTransaksi":"20240716083735","idTransaksi":"2190660716083735000451","checksum":"00af2b1b086d377ec14b9aa03d6d5efcc56ae333","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"1b9785de2999e0779f7b8213dae951b4b6a3349430157f9f05c56f691270641d"}"
+
+string(19) "2024-07-16 15:37:37"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "481482"
+  ["tanggalTransaksi"]=>
+  string(14) "20240716083735"
+  ["idTransaksi"]=>
+  string(22) "2190660716083735000451"
+  ["checksum"]=>
+  string(40) "00af2b1b086d377ec14b9aa03d6d5efcc56ae333"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "1b9785de2999e0779f7b8213dae951b4b6a3349430157f9f05c56f691270641d"
+}
+
+string(19) "2024-07-16 15:37:37"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/006"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(6) "481482"
+  ["nik"]=>
+  string(8) "12345679"
+  ["nama"]=>
+  string(12) "M rijaluddin"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 15:37:37"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/006"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(6) "481482"
+  ["nik"]=>
+  string(8) "12345679"
+  ["nama"]=>
+  string(12) "M rijaluddin"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 15:37:37"
+string(349) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"481482","idPelanggan":"481482","nama":"M rijaluddin","totalNominal":10000,"informasi":[{"label_key":"Info1","label_value":"Tes Ting Abi tour"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":10000}],"idTagihan":"JUL\/006"}"
+
+string(19) "2024-07-16 15:38:41"
+string(9) "REQUEST: "
+
+string(19) "2024-07-16 15:38:41"
+string(421) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"MBANK","kodeTerminal":"BSI OM360451 087095533625","nomorPembayaran":"481482","tanggalTransaksi":"20240716083840","idTransaksi":"1975650716083840000451","checksum":"9c1841be4e5a0bb4b2ef12969a5086013a63e8df","totalNominalInquiry":0,"rekeningPembayar":"7777777777777777","checksum256":"d8a519ff2fcc511d8c101b7f97e7793008a46c0a0f34364c9e4504bc1ebbc5c1"}"
+
+string(19) "2024-07-16 15:38:41"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(5) "MBANK"
+  ["kodeTerminal"]=>
+  string(25) "BSI OM360451 087095533625"
+  ["nomorPembayaran"]=>
+  string(6) "481482"
+  ["tanggalTransaksi"]=>
+  string(14) "20240716083840"
+  ["idTransaksi"]=>
+  string(22) "1975650716083840000451"
+  ["checksum"]=>
+  string(40) "9c1841be4e5a0bb4b2ef12969a5086013a63e8df"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "7777777777777777"
+  ["checksum256"]=>
+  string(64) "d8a519ff2fcc511d8c101b7f97e7793008a46c0a0f34364c9e4504bc1ebbc5c1"
+}
+
+string(19) "2024-07-16 15:38:41"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/006"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(6) "481482"
+  ["nik"]=>
+  string(8) "12345679"
+  ["nama"]=>
+  string(12) "M rijaluddin"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 15:38:41"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/006"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(6) "481482"
+  ["nik"]=>
+  string(8) "12345679"
+  ["nama"]=>
+  string(12) "M rijaluddin"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 15:38:41"
+string(349) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"481482","idPelanggan":"481482","nama":"M rijaluddin","totalNominal":10000,"informasi":[{"label_key":"Info1","label_value":"Tes Ting Abi tour"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":10000}],"idTagihan":"JUL\/006"}"
+
+string(19) "2024-07-16 15:38:49"
+string(9) "REQUEST: "
+
+string(19) "2024-07-16 15:38:49"
+string(570) "{"action":"payment","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"MBANK","kodeTerminal":"BSI OM360451 087095533625","nomorPembayaran":"481482","tanggalTransaksi":"20240716083847","idTransaksi":"1980920716083847000451","idTagihan":"JUL\/006","totalNominal":"10000","nomorJurnalPembukuan":"1980920716083847000451","checksum":"6b51995cc1b35cf562b26fc5886a095c9f98a51d","rekeningPembayar":"7777777777777777","checksum256":"feb28c32a3bffe403e30350beb6d270f29e1256bea6e8951069cf7ed30d5f432","totalFee":2500,"penanggungFee":"Nasabah","totalNominalPembayaranDanFee":12500}"
+
+string(19) "2024-07-16 15:38:49"
+array(17) {
+  ["action"]=>
+  string(7) "payment"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(5) "MBANK"
+  ["kodeTerminal"]=>
+  string(25) "BSI OM360451 087095533625"
+  ["nomorPembayaran"]=>
+  string(6) "481482"
+  ["tanggalTransaksi"]=>
+  string(14) "20240716083847"
+  ["idTransaksi"]=>
+  string(22) "1980920716083847000451"
+  ["idTagihan"]=>
+  string(7) "JUL/006"
+  ["totalNominal"]=>
+  string(5) "10000"
+  ["nomorJurnalPembukuan"]=>
+  string(22) "1980920716083847000451"
+  ["checksum"]=>
+  string(40) "6b51995cc1b35cf562b26fc5886a095c9f98a51d"
+  ["rekeningPembayar"]=>
+  string(16) "7777777777777777"
+  ["checksum256"]=>
+  string(64) "feb28c32a3bffe403e30350beb6d270f29e1256bea6e8951069cf7ed30d5f432"
+  ["totalFee"]=>
+  int(2500)
+  ["penanggungFee"]=>
+  string(7) "Nasabah"
+  ["totalNominalPembayaranDanFee"]=>
+  int(12500)
+}
+
+string(19) "2024-07-16 15:38:49"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/006"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(6) "481482"
+  ["nik"]=>
+  string(8) "12345679"
+  ["nama"]=>
+  string(12) "M rijaluddin"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 15:38:49"
+array(11) {
+  ["id_invoice"]=>
+  string(7) "JUL/006"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(6) "481482"
+  ["nik"]=>
+  string(8) "12345679"
+  ["nama"]=>
+  string(12) "M rijaluddin"
+  ["nominal_tagihan"]=>
+  int(10000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+}
+
+string(19) "2024-07-16 15:38:49"
+string(13) "START PAYMENT"
+
+string(19) "2024-07-16 15:38:49"
+string(3) "XXX"
+
+string(19) "2024-07-16 15:38:49"
+string(3) "YYY"
+
+string(19) "2024-07-16 15:38:49"
+string(11) "END PAYMENT"
+
+string(19) "2024-07-16 15:38:49"
+array(9) {
+  ["rc"]=>
+  string(2) "OK"
+  ["msg"]=>
+  string(16) "Payment Succeded"
+  ["nomorPembayaran"]=>
+  string(6) "481482"
+  ["idPelanggan"]=>
+  string(6) "481482"
+  ["nama"]=>
+  string(12) "M rijaluddin"
+  ["totalNominal"]=>
+  int(10000)
+  ["informasi"]=>
+  array(2) {
+    [0]=>
+    array(2) {
+      ["label_key"]=>
+      string(5) "Info1"
+      ["label_value"]=>
+      string(17) "Tes Ting Abi tour"
+    }
+    [1]=>
+    array(2) {
+      ["label_key"]=>
+      string(5) "Info2"
+      ["label_value"]=>
+      string(0) ""
+    }
+  }
+  ["rincian"]=>
+  array(1) {
+    [0]=>
+    array(3) {
+      ["kode_rincian"]=>
+      string(7) "TAGIHAN"
+      ["deskripsi"]=>
+      string(7) "TAGIHAN"
+      ["nominal"]=>
+      int(10000)
+    }
+  }
+  ["idTagihan"]=>
+  string(7) "JUL/006"
+}
+
+string(19) "2024-07-16 15:38:49"
+string(348) "RESPONSE: {"rc":"OK","msg":"Payment Succeded","nomorPembayaran":"481482","idPelanggan":"481482","nama":"M rijaluddin","totalNominal":10000,"informasi":[{"label_key":"Info1","label_value":"Tes Ting Abi tour"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":10000}],"idTagihan":"JUL\/006"}"
+

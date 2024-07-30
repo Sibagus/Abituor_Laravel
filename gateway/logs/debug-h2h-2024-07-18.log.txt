@@ -1,0 +1,682 @@
+string(19) "2024-07-18 10:17:31"
+string(9) "REQUEST: "
+
+string(19) "2024-07-18 10:17:31"
+string(432) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"1912191212","tanggalTransaksi":"20240718031730","idTransaksi":"3166350718031730000451","checksum":"96de6a1460de489a8ba8b967424ce82a69af2b8f","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"0dbee13c7064ee5a028a16ea9a38d162db0c4254f0f2679f1ccf70b7f7e5913e"}"
+
+string(19) "2024-07-18 10:17:31"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240718031730"
+  ["idTransaksi"]=>
+  string(22) "3166350718031730000451"
+  ["checksum"]=>
+  string(40) "96de6a1460de489a8ba8b967424ce82a69af2b8f"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "0dbee13c7064ee5a028a16ea9a38d162db0c4254f0f2679f1ccf70b7f7e5913e"
+}
+
+string(19) "2024-07-18 10:17:33"
+string(9) "REQUEST: "
+
+string(19) "2024-07-18 10:17:33"
+string(432) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"1912191212","tanggalTransaksi":"20240718031733","idTransaksi":"2547180718031733000451","checksum":"13a95a7b609a19adb45f0beec74aa700a43ad0bc","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"2088f8675d3146467c5bb846ed4c3cb6f72a2cab3ebcd32976a94996b37b7925"}"
+
+string(19) "2024-07-18 10:17:33"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240718031733"
+  ["idTransaksi"]=>
+  string(22) "2547180718031733000451"
+  ["checksum"]=>
+  string(40) "13a95a7b609a19adb45f0beec74aa700a43ad0bc"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "2088f8675d3146467c5bb846ed4c3cb6f72a2cab3ebcd32976a94996b37b7925"
+}
+
+string(19) "2024-07-18 10:18:03"
+string(9) "REQUEST: "
+
+string(19) "2024-07-18 10:18:03"
+string(0) ""
+
+string(19) "2024-07-18 10:18:37"
+string(9) "REQUEST: "
+
+string(19) "2024-07-18 10:18:37"
+string(428) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"481482","tanggalTransaksi":"20240718031836","idTransaksi":"4752150718031836000451","checksum":"9a1ae19d62bb8c45774dba77a66eeba1997ac8a6","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"9c30366f23194316a3ec59ba3ebad27f35904fce460f0262e6427fa241607dc7"}"
+
+string(19) "2024-07-18 10:18:37"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "481482"
+  ["tanggalTransaksi"]=>
+  string(14) "20240718031836"
+  ["idTransaksi"]=>
+  string(22) "4752150718031836000451"
+  ["checksum"]=>
+  string(40) "9a1ae19d62bb8c45774dba77a66eeba1997ac8a6"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "9c30366f23194316a3ec59ba3ebad27f35904fce460f0262e6427fa241607dc7"
+}
+
+string(19) "2024-07-18 10:19:23"
+string(9) "REQUEST: "
+
+string(19) "2024-07-18 10:19:23"
+string(0) ""
+
+string(19) "2024-07-18 10:20:57"
+string(9) "REQUEST: "
+
+string(19) "2024-07-18 10:20:57"
+string(428) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"191213","tanggalTransaksi":"20240718032056","idTransaksi":"4166510718032056000451","checksum":"d555270da6ccdd8396a4cabc74c114c3302cdcbf","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"3f83cee4e831df9937064b2734589f792a1a81289f53f124c72353d25a17f2e9"}"
+
+string(19) "2024-07-18 10:20:57"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "191213"
+  ["tanggalTransaksi"]=>
+  string(14) "20240718032056"
+  ["idTransaksi"]=>
+  string(22) "4166510718032056000451"
+  ["checksum"]=>
+  string(40) "d555270da6ccdd8396a4cabc74c114c3302cdcbf"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "3f83cee4e831df9937064b2734589f792a1a81289f53f124c72353d25a17f2e9"
+}
+
+string(19) "2024-07-18 10:20:59"
+string(9) "REQUEST: "
+
+string(19) "2024-07-18 10:20:59"
+string(428) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"191213","tanggalTransaksi":"20240718032058","idTransaksi":"6766180718032058000451","checksum":"59ce3c55fcc03503337d2632d01b6e651aa561e7","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"2eabc96ba9bb64dcc98764e2c55cb432df75bd6e6d7ce714326a4f3b58599a8b"}"
+
+string(19) "2024-07-18 10:20:59"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "191213"
+  ["tanggalTransaksi"]=>
+  string(14) "20240718032058"
+  ["idTransaksi"]=>
+  string(22) "6766180718032058000451"
+  ["checksum"]=>
+  string(40) "59ce3c55fcc03503337d2632d01b6e651aa561e7"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "2eabc96ba9bb64dcc98764e2c55cb432df75bd6e6d7ce714326a4f3b58599a8b"
+}
+
+string(19) "2024-07-18 10:21:00"
+string(9) "REQUEST: "
+
+string(19) "2024-07-18 10:21:00"
+string(428) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"191213","tanggalTransaksi":"20240718032100","idTransaksi":"1840590718032100000451","checksum":"4d5881cf161c26668e1730853a6238fcf60c0101","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"1fee49cb002cd3c5f4290b215a0e1ca0513e32c9cd34a9fabe4ba3a2d46425a9"}"
+
+string(19) "2024-07-18 10:21:00"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "191213"
+  ["tanggalTransaksi"]=>
+  string(14) "20240718032100"
+  ["idTransaksi"]=>
+  string(22) "1840590718032100000451"
+  ["checksum"]=>
+  string(40) "4d5881cf161c26668e1730853a6238fcf60c0101"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "1fee49cb002cd3c5f4290b215a0e1ca0513e32c9cd34a9fabe4ba3a2d46425a9"
+}
+
+string(19) "2024-07-18 10:21:02"
+string(9) "REQUEST: "
+
+string(19) "2024-07-18 10:21:02"
+string(428) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"191213","tanggalTransaksi":"20240718032102","idTransaksi":"8251900718032102000451","checksum":"8db981859a7477663a5750b9f087c2a617d55b69","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"62a5d92b1b59758a06143794b096b1fe76346f8efab421f0866777c5ad226792"}"
+
+string(19) "2024-07-18 10:21:02"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "191213"
+  ["tanggalTransaksi"]=>
+  string(14) "20240718032102"
+  ["idTransaksi"]=>
+  string(22) "8251900718032102000451"
+  ["checksum"]=>
+  string(40) "8db981859a7477663a5750b9f087c2a617d55b69"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "62a5d92b1b59758a06143794b096b1fe76346f8efab421f0866777c5ad226792"
+}
+
+string(19) "2024-07-18 10:27:57"
+string(9) "REQUEST: "
+
+string(19) "2024-07-18 10:27:57"
+string(428) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"191213","tanggalTransaksi":"20240718032756","idTransaksi":"1495040718032756000451","checksum":"caf96e721c93c6056bd20040ff0ca5e486ad57b7","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"e0dd40d7d30211c0b6789273c0d7a6522498b750443124021a97eae142c2f67c"}"
+
+string(19) "2024-07-18 10:27:57"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "191213"
+  ["tanggalTransaksi"]=>
+  string(14) "20240718032756"
+  ["idTransaksi"]=>
+  string(22) "1495040718032756000451"
+  ["checksum"]=>
+  string(40) "caf96e721c93c6056bd20040ff0ca5e486ad57b7"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "e0dd40d7d30211c0b6789273c0d7a6522498b750443124021a97eae142c2f67c"
+}
+
+string(19) "2024-07-18 10:28:34"
+string(9) "REQUEST: "
+
+string(19) "2024-07-18 10:28:34"
+string(0) ""
+
+string(19) "2024-07-18 10:29:01"
+string(9) "REQUEST: "
+
+string(19) "2024-07-18 10:29:01"
+string(0) ""
+
+string(19) "2024-07-18 10:30:03"
+string(9) "REQUEST: "
+
+string(19) "2024-07-18 10:30:03"
+string(0) ""
+
+string(19) "2024-07-18 10:31:25"
+string(9) "REQUEST: "
+
+string(19) "2024-07-18 10:31:25"
+string(0) ""
+
+string(19) "2024-07-18 10:32:12"
+string(9) "REQUEST: "
+
+string(19) "2024-07-18 10:32:12"
+string(428) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"481484","tanggalTransaksi":"20240718033212","idTransaksi":"1583260718033212000451","checksum":"eedfe02a7e2130736b0519413f9fdbb51e7f1e71","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"bc14b1260c378dc2873d3cb0653764267e06cbc4b6e3369069d64e1cf94be2ee"}"
+
+string(19) "2024-07-18 10:32:12"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "481484"
+  ["tanggalTransaksi"]=>
+  string(14) "20240718033212"
+  ["idTransaksi"]=>
+  string(22) "1583260718033212000451"
+  ["checksum"]=>
+  string(40) "eedfe02a7e2130736b0519413f9fdbb51e7f1e71"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "bc14b1260c378dc2873d3cb0653764267e06cbc4b6e3369069d64e1cf94be2ee"
+}
+
+string(19) "2024-07-18 10:41:04"
+string(9) "REQUEST: "
+
+string(19) "2024-07-18 10:41:04"
+string(428) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"481484","tanggalTransaksi":"20240718034103","idTransaksi":"1931430718034103000451","checksum":"1d39e9c62ca5e706f031cd3eaf9292ebf61d9387","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"f0ee403d77a1966c0e9804ac3a7b90f587c74fa610701dfe8f902f6d428cc60a"}"
+
+string(19) "2024-07-18 10:41:04"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "481484"
+  ["tanggalTransaksi"]=>
+  string(14) "20240718034103"
+  ["idTransaksi"]=>
+  string(22) "1931430718034103000451"
+  ["checksum"]=>
+  string(40) "1d39e9c62ca5e706f031cd3eaf9292ebf61d9387"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "f0ee403d77a1966c0e9804ac3a7b90f587c74fa610701dfe8f902f6d428cc60a"
+}
+
+string(19) "2024-07-18 10:41:04"
+array(13) {
+  ["id_invoice"]=>
+  string(3) "127"
+  ["tanggal_invoice"]=>
+  string(10) "2024-07-18"
+  ["nomor_siswa"]=>
+  string(6) "481484"
+  ["nik"]=>
+  string(8) "12345677"
+  ["nama"]=>
+  string(8) "M Bayu a"
+  ["nominal_tagihan"]=>
+  int(5000)
+  ["informasi"]=>
+  string(12) "Nama Tagihan"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+  ["updated_at"]=>
+  string(19) "2024-07-18 02:11:15"
+  ["created_at"]=>
+  string(19) "2024-07-18 02:11:15"
+}
+
+string(19) "2024-07-18 10:41:04"
+array(13) {
+  ["id_invoice"]=>
+  string(3) "127"
+  ["tanggal_invoice"]=>
+  string(10) "2024-07-18"
+  ["nomor_siswa"]=>
+  string(6) "481484"
+  ["nik"]=>
+  string(8) "12345677"
+  ["nama"]=>
+  string(8) "M Bayu a"
+  ["nominal_tagihan"]=>
+  int(5000)
+  ["informasi"]=>
+  string(12) "Nama Tagihan"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+  ["updated_at"]=>
+  string(19) "2024-07-18 02:11:15"
+  ["created_at"]=>
+  string(19) "2024-07-18 02:11:15"
+}
+
+string(19) "2024-07-18 10:41:04"
+string(333) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"481484","idPelanggan":"481484","nama":"M Bayu a","totalNominal":5000,"informasi":[{"label_key":"Info1","label_value":"Nama Tagihan"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":5000}],"idTagihan":"127"}"
+
+string(19) "2024-07-18 10:41:19"
+string(9) "REQUEST: "
+
+string(19) "2024-07-18 10:41:19"
+string(0) ""
+
+string(19) "2024-07-18 10:41:31"
+string(9) "REQUEST: "
+
+string(19) "2024-07-18 10:41:31"
+string(432) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"1912191212","tanggalTransaksi":"20240718034130","idTransaksi":"2464020718034130000451","checksum":"64457f81791dda653ffec529ab3a338af621270a","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"1e4ebf354cf9e7f6b8c17bbcc3985d1c537818e124e2230454460e675b88094f"}"
+
+string(19) "2024-07-18 10:41:31"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240718034130"
+  ["idTransaksi"]=>
+  string(22) "2464020718034130000451"
+  ["checksum"]=>
+  string(40) "64457f81791dda653ffec529ab3a338af621270a"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "1e4ebf354cf9e7f6b8c17bbcc3985d1c537818e124e2230454460e675b88094f"
+}
+
+string(19) "2024-07-18 10:41:31"
+array(13) {
+  ["id_invoice"]=>
+  string(3) "344"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nik"]=>
+  string(5) "17089"
+  ["nama"]=>
+  string(9) "Bayu AAAA"
+  ["nominal_tagihan"]=>
+  int(15000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  string(22) "0833860717070019000451"
+  ["waktu_transaksi"]=>
+  string(19) "2024-07-17 14:00:20"
+  ["channel_pembayaran"]=>
+  string(8) "FLAGGING"
+  ["status_pembayaran"]=>
+  string(6) "SUKSES"
+  ["updated_at"]=>
+  NULL
+  ["created_at"]=>
+  NULL
+}
+
+string(19) "2024-07-18 10:41:31"
+NULL
+
+string(19) "2024-07-18 10:41:31"
+string(58) "RESPONSE: {"rc":"ERR-ALREADY-PAID","msg":"Sudah Terbayar"}"
+
+string(19) "2024-07-18 10:46:41"
+string(9) "REQUEST: "
+
+string(19) "2024-07-18 10:46:41"
+string(432) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"1912191212","tanggalTransaksi":"20240718034641","idTransaksi":"9169830718034641000451","checksum":"bec12116cce2a26363b90cedd5e4115eed42b0d9","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"b6c5b8d33995347bd507181076514a0a23d6cd99a840ee20807e3e7487c24583"}"
+
+string(19) "2024-07-18 10:46:41"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(10) "1912191212"
+  ["tanggalTransaksi"]=>
+  string(14) "20240718034641"
+  ["idTransaksi"]=>
+  string(22) "9169830718034641000451"
+  ["checksum"]=>
+  string(40) "bec12116cce2a26363b90cedd5e4115eed42b0d9"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "b6c5b8d33995347bd507181076514a0a23d6cd99a840ee20807e3e7487c24583"
+}
+
+string(19) "2024-07-18 10:46:41"
+array(13) {
+  ["id_invoice"]=>
+  string(3) "344"
+  ["tanggal_invoice"]=>
+  string(10) "2021-07-16"
+  ["nomor_siswa"]=>
+  string(10) "1912191212"
+  ["nik"]=>
+  string(5) "17089"
+  ["nama"]=>
+  string(9) "Bayu AAAA"
+  ["nominal_tagihan"]=>
+  int(15000)
+  ["informasi"]=>
+  string(17) "Tes Ting Abi tour"
+  ["nomor_jurnal_pembukuan"]=>
+  string(22) "0833860717070019000451"
+  ["waktu_transaksi"]=>
+  string(19) "2024-07-17 14:00:20"
+  ["channel_pembayaran"]=>
+  string(8) "FLAGGING"
+  ["status_pembayaran"]=>
+  string(6) "SUKSES"
+  ["updated_at"]=>
+  NULL
+  ["created_at"]=>
+  NULL
+}
+
+string(19) "2024-07-18 10:46:41"
+NULL
+
+string(19) "2024-07-18 10:46:41"
+string(58) "RESPONSE: {"rc":"ERR-ALREADY-PAID","msg":"Sudah Terbayar"}"
+
+string(19) "2024-07-18 10:46:54"
+string(9) "REQUEST: "
+
+string(19) "2024-07-18 10:46:54"
+string(428) "{"action":"inquiry","kodeBank":"BSM","kodeBiller":"1689","kodeChannel":"FLAGGING","kodeTerminal":"Non-BSI abitour. id@gmail.com","nomorPembayaran":"481484","tanggalTransaksi":"20240718034654","idTransaksi":"0812010718034654000451","checksum":"ffa16d535b5f2e13d8686a040d7a8d13b36627d5","totalNominalInquiry":0,"rekeningPembayar":"9999999999999999","checksum256":"4c124378caac7b58548eea6280d5dfe1552946ab386e48b2b286c97d537ccdbb"}"
+
+string(19) "2024-07-18 10:46:54"
+array(12) {
+  ["action"]=>
+  string(7) "inquiry"
+  ["kodeBank"]=>
+  string(3) "BSM"
+  ["kodeBiller"]=>
+  string(4) "1689"
+  ["kodeChannel"]=>
+  string(8) "FLAGGING"
+  ["kodeTerminal"]=>
+  string(29) "Non-BSI abitour. id@gmail.com"
+  ["nomorPembayaran"]=>
+  string(6) "481484"
+  ["tanggalTransaksi"]=>
+  string(14) "20240718034654"
+  ["idTransaksi"]=>
+  string(22) "0812010718034654000451"
+  ["checksum"]=>
+  string(40) "ffa16d535b5f2e13d8686a040d7a8d13b36627d5"
+  ["totalNominalInquiry"]=>
+  int(0)
+  ["rekeningPembayar"]=>
+  string(16) "9999999999999999"
+  ["checksum256"]=>
+  string(64) "4c124378caac7b58548eea6280d5dfe1552946ab386e48b2b286c97d537ccdbb"
+}
+
+string(19) "2024-07-18 10:46:54"
+array(13) {
+  ["id_invoice"]=>
+  string(3) "127"
+  ["tanggal_invoice"]=>
+  string(10) "2024-07-18"
+  ["nomor_siswa"]=>
+  string(6) "481484"
+  ["nik"]=>
+  string(8) "12345677"
+  ["nama"]=>
+  string(8) "M Bayu a"
+  ["nominal_tagihan"]=>
+  int(5000)
+  ["informasi"]=>
+  string(12) "Nama Tagihan"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+  ["updated_at"]=>
+  string(19) "2024-07-18 02:11:15"
+  ["created_at"]=>
+  string(19) "2024-07-18 02:11:15"
+}
+
+string(19) "2024-07-18 10:46:54"
+array(13) {
+  ["id_invoice"]=>
+  string(3) "127"
+  ["tanggal_invoice"]=>
+  string(10) "2024-07-18"
+  ["nomor_siswa"]=>
+  string(6) "481484"
+  ["nik"]=>
+  string(8) "12345677"
+  ["nama"]=>
+  string(8) "M Bayu a"
+  ["nominal_tagihan"]=>
+  int(5000)
+  ["informasi"]=>
+  string(12) "Nama Tagihan"
+  ["nomor_jurnal_pembukuan"]=>
+  NULL
+  ["waktu_transaksi"]=>
+  NULL
+  ["channel_pembayaran"]=>
+  NULL
+  ["status_pembayaran"]=>
+  NULL
+  ["updated_at"]=>
+  string(19) "2024-07-18 02:11:15"
+  ["created_at"]=>
+  string(19) "2024-07-18 02:11:15"
+}
+
+string(19) "2024-07-18 10:46:54"
+string(333) "RESPONSE: {"rc":"OK","msg":"Inquiry Succeeded","nomorPembayaran":"481484","idPelanggan":"481484","nama":"M Bayu a","totalNominal":5000,"informasi":[{"label_key":"Info1","label_value":"Nama Tagihan"},{"label_key":"Info2","label_value":""}],"rincian":[{"kode_rincian":"TAGIHAN","deskripsi":"TAGIHAN","nominal":5000}],"idTagihan":"127"}"
+
