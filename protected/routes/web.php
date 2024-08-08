@@ -31,13 +31,23 @@ Route::post('tagihan', [TagihanController::class, 'form']);
 Route::post('tagihan-ajax', [TagihanController::class, 'get_ajax']);
 
 
-Route::get('/token', function () {
-    return csrf_token();
-});
-
-Route::get('/api', [ApiController::class, 'index']);
-Route::get('/api/en/{var1}', [ApiController::class, 'en']);
-Route::get('/api/data', [ApiController::class, 'data']);
+// Route::get('/token', function () {
+//     return csrf_token();
+// });
 
 
-Route::post('/auth', AuthController::class)->name('login');
+Route::any('/token', [AuthController::class, 'token']);
+//Route::match(array('POST', 'GET'), '/token', [AuthController::class, 'token']);
+// Route::get('/api', [ApiController::class, 'index']);
+// Route::get('/api/en/{var1}', [ApiController::class, 'en']);
+// Route::get('/api/data', [ApiController::class, 'data']);
+
+Route::any('/api', [ApiController::class, 'index']);
+Route::any('/api/en/{var1}', [ApiController::class, 'en']);
+Route::any('/api/data', [ApiController::class, 'data']);
+
+
+
+
+// Route::post('/auth', AuthController::class)->name('login');
+Route::match(array('POST', 'GET'), '/auth', AuthController::class)->name('login');

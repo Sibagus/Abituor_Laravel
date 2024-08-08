@@ -147,7 +147,7 @@
                         <tr>
 
                             <th>No Id</th>
-                            <th>Nomor Tagihan</th>
+                            <th>Id Jamaah</th>
 
                             <th>Nama Lengkap</th>
 
