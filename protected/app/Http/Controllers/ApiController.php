@@ -32,19 +32,25 @@ class ApiController extends Controller
         ], 200);
     }
 
-    public function va($no = "")
+    public function va($no = "", Request $request)
     {
-        if ($no != "") {
+        if ($request->isMethod('post')) {
+            if ($no != "") {
+                return response()->json([
+                    'message' => 'success',
+                    'data' => Tagihan_pembayaran::where('nomor_siswa', $no)->first()
+                ], 200);
+            }
+
             return response()->json([
                 'message' => 'success',
-                'data' => Tagihan_pembayaran::where('nomor_siswa', $no)->first()
-            ], 200);
+                'data' => 'No Data'
+            ], 404);
+        } else {
+            return response()->json([
+                'message' => 'Token Expired'
+            ], 401);
         }
-
-        return response()->json([
-            'message' => 'success',
-            'data' => 'No Data'
-        ], 200);
     }
 
     public function create_va(Request $request)
@@ -99,23 +105,22 @@ class ApiController extends Controller
                     if ($errorCode == '1062') {
                         return response()->json([
                             'message' => 'Duplicate Entry id Invoice'
-                        ], 200);
+                        ], 404);
                     } else {
                         return response()->json([
                             'message' => 'Error'
-                        ], 200);
+                        ], 404);
                     }
                 }
             } else {
                 return response()->json([
                     'message' => 'Duplicate Entry id Jamaah'
-                ], 200);
-
+                ], 404);
             }
         } else {
             return response()->json([
                 'message' => 'Method not allowed'
-            ], 405);
+            ], 401);
         }
     }
 
@@ -169,19 +174,17 @@ class ApiController extends Controller
                     return response()->json([
                         'message' => 'id_invoice tidak ditemukan',
                         'data' => $request->id_invoice
-                    ], 200);
+                    ], 404);
                 }
             } catch (\Illuminate\Database\QueryException $e) {
                 return response()->json([
                     'message' => 'Error'
-                ], 200);
+                ], 404);
             }
-
-
         } else {
             return response()->json([
                 'message' => 'Method not allowed'
-            ], 405);
+            ], 401);
         }
     }
 
@@ -214,17 +217,17 @@ class ApiController extends Controller
                     return response()->json([
                         'message' => 'id Invoice tidak ditemukan',
                         'data' => $del
-                    ], 200);
+                    ], 404);
                 }
             } catch (\Illuminate\Database\QueryException $e) {
                 return response()->json([
                     'message' => 'Error'
-                ], 200);
+                ], 404);
             }
         } else {
             return response()->json([
                 'message' => 'Method not allowed'
-            ], 405);
+            ], 401);
         }
     }
 }

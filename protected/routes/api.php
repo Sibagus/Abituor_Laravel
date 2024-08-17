@@ -21,7 +21,16 @@ Route::post('/login', AuthController::class)->name('login');
 // });
 
 
-Route::group(['middleware' => 'auth:api', 'isActiveToken'], function () {
+// Route::group(['middleware' => 'auth:api', 'isActiveToken'], function () {
+//     Route::any('/va/{var1?}', [ApiController::class, 'va']);
+
+//     Route::any('/create_va', [ApiController::class, 'create_va']);
+
+//     Route::any('/update_va', [ApiController::class, 'update_va']);
+
+//     Route::any('/delete_va', [ApiController::class, 'delete_va']);
+// });
+Route::group(['middleware' => 'auth:sanctum'], function () {
     Route::any('/va/{var1?}', [ApiController::class, 'va']);
 
     Route::any('/create_va', [ApiController::class, 'create_va']);
@@ -31,4 +40,4 @@ Route::group(['middleware' => 'auth:api', 'isActiveToken'], function () {
     Route::any('/delete_va', [ApiController::class, 'delete_va']);
 });
 
-
+Route::match(array('POST', 'GET'), '/auth', AuthController::class)->name('login');

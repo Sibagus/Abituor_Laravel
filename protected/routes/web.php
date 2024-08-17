@@ -6,6 +6,8 @@ use App\Http\Controllers\AuthController;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\LoginController;
 use App\Http\Controllers\TagihanController;
+use App\Http\Controllers\GatewayController;
+use App\Http\Middleware\TokenExpired;
 
 // Route::get('/', function () {
 //     return view('welcome');
@@ -50,4 +52,9 @@ Route::any('/api/data', [ApiController::class, 'data']);
 
 
 // Route::post('/auth', AuthController::class)->name('login');
-Route::match(array('POST', 'GET'), '/auth', AuthController::class)->name('login');
+
+
+Route::get('get-debuglog', [GatewayController::class, 'getDebug']);
+Route::get('inquiry', [GatewayController::class, 'inquiry']);
+Route::get('reversal', [GatewayController::class, 'reversal']);
+Route::get('payment', [GatewayController::class, 'payment']);
