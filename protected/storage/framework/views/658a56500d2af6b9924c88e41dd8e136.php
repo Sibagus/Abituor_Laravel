@@ -1,7 +1,5 @@
 <html lang="en">
 
-
-
 <head>
 
     <meta charset="utf-8" />
@@ -10,7 +8,7 @@
 
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
-    <title>Sibag - Abitour</title>
+    <title>Dashboard - Payment Abitour And Traver.</title>
 
     <!-- CSS files -->
 
@@ -37,42 +35,36 @@
 
         });
     </script>
-
-
-
 </head>
 
 
 
-<body>
 
+
+<body class=" layout-fluid">
     
 
-    <div class="page">
+        <?php echo $__env->make('template.navbar', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
 
+      <!-- Page body -->
+      <div class="page-wrapper">
+        <!-- Page header -->
         
+        <!-- Page body -->
+        <div class="page-body">
+          <div class="container-xl">
+          <?php echo $__env->yieldContent('content'); ?>
+        
+        </div>
+    </div>
+      
 
-        <?php echo $__env->make('template.navbar', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>;
-
-        <div class="page-wrapper mx-5">
-
-            <!-- Page body -->
-
-            <div class="page-body">
-
-                <div class="container-fluid">
-
-                    <?php echo $__env->yieldContent('content'); ?>
-
-                </div>
-
-            </div>
 
             <?php echo $__env->make('template.footer', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
 
         </div>
-
     </div>
+
 
     <?php echo $__env->make('sweetalert::alert', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
 

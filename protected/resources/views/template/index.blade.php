@@ -1,7 +1,5 @@
 <html lang="en">
 
-
-
 <head>
 
     <meta charset="utf-8" />
@@ -10,7 +8,7 @@
 
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
-    <title>Sibag - Abitour</title>
+    <title>Dashboard - Payment Abitour And Traver.</title>
 
     <!-- CSS files -->
 
@@ -37,42 +35,36 @@
 
         });
     </script>
-
-
-
 </head>
 
 
 
-<body>
 
+
+<body class=" layout-fluid">
     {{-- <script src="./dist/js/demo-theme.min.js?1684106062"></script> --}}
 
-    <div class="page">
+        @include('template.navbar')
 
-        {{-- Sidebar --}}
+      <!-- Page body -->
+      <div class="page-wrapper">
+        <!-- Page header -->
+        
+        <!-- Page body -->
+        <div class="page-body">
+          <div class="container-xl">
+          @yield('content')
+        
+        </div>
+    </div>
+      
 
-        @include('template.navbar');
-
-        <div class="page-wrapper mx-5">
-
-            <!-- Page body -->
-
-            <div class="page-body">
-
-                <div class="container-fluid">
-
-                    @yield('content')
-
-                </div>
-
-            </div>
 
             @include('template.footer')
 
         </div>
-
     </div>
+
 
     @include('sweetalert::alert')
 

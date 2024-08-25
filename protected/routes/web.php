@@ -26,11 +26,15 @@ Route::post('user-delete', [LoginController::class, 'hapus']);
 
 // Route::middleware(['middlewere' => 'Login'], function () {
 // });
-Route::get('home', [HomeController::class, 'index']);
+Route::any('home', [HomeController::class, 'index']);
 
 Route::get('tagihan', [TagihanController::class, 'index']);
+Route::any('tagihan_filter', [TagihanController::class, 'index']);
 Route::post('tagihan', [TagihanController::class, 'form']);
 Route::post('tagihan-ajax', [TagihanController::class, 'get_ajax']);
+Route::post('tagihan-delete', [TagihanController::class, 'hapus']);
+Route::get('tagihan_excel', [TagihanController::class, 'tagihan_excel']);
+Route::get('users/export/{tgl_awal}/{tgl_akhir}', [TagihanController::class, 'export']);
 
 
 // Route::get('/token', function () {
@@ -46,6 +50,7 @@ Route::any('/token', [AuthController::class, 'token']);
 
 Route::any('/api', [ApiController::class, 'index']);
 Route::any('/api/en/{var1}', [ApiController::class, 'en']);
+
 Route::any('/api/data', [ApiController::class, 'data']);
 
 

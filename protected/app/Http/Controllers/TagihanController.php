@@ -5,18 +5,37 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Validator;
+use Maatwebsite\Excel\Facades\Excel;
+use App\Imports\UsersImport;
+use App\Exports\ExportUser;
 use Alert;
 
 class TagihanController extends Controller
 {
-    public function index()
+    public function index(Request $request)
     {
         // $t = DB::table('tagihan_pembayaran')->orderBy('id_invoice', 'desc')->first();
         // dd($t->id_invoice + 1);
+        if ($request->all()) {
+            $tgl_awal = $request->input('tgl_awal');
+            $tgl_akhir = $request->input('tgl_akhir');
+        } else {
+            $tgl_awal = date('Y-m-01');
+            $tgl_akhir = date('Y-m-d');
+        }
 
-        $data = DB::table('tagihan_pembayaran')->orderBy('id_invoice', 'desc')->get();
-        return view('tagihan', compact('data'));
+
+        $data = DB::table('tagihan_pembayaran')->whereBetween('tanggal_invoice', [$tgl_awal, $tgl_akhir])->orderBy('id_invoice', 'desc')->get();
+        return view('tagihan', compact('data', 'tgl_awal', 'tgl_akhir'));
     }
+
+
+    public function export($param1 = "", $param2 = "")
+    {
+
+        return Excel::download(new ExportUser($param1, $param2), 'tagihan_' . $param1 . '_' . $param2 . '.xlsx');
+    }
+
 
     public function form(Request $request)
     {
@@ -85,5 +104,18 @@ class TagihanController extends Controller
         $id = $request->id;
         $data = DB::table('tagihan_pembayaran')->where('id_invoice', $id)->first();
         return response()->json($data, 200);
+    }
+
+    public function hapus(Request $request)
+    {
+        $id = $request->id;
+        try {
+            DB::table('tagihan_pembayaran')->where('id_invoice', $id)->delete();
+            // $data->delete();
+            Alert::success('Berhasil', 'Data Berhasil Dihapus');
+        } catch (\Throwable $th) {
+            Alert::error('Gagal', 'Data Gagal Dihapus');
+        }
+        return redirect()->back();
     }
 }
